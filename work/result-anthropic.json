@@ -1,0 +1,6755 @@
+{
+ "case_name": "Vega - sample personal-injury file (fictional)",
+ "documents": [
+  {
+   "id": "D01",
+   "file": "01_bayview_er_record.pdf",
+   "title": "Emergency department record"
+  },
+  {
+   "id": "D02",
+   "file": "02_bayview_er_bill.pdf",
+   "title": "Emergency department bill"
+  },
+  {
+   "id": "D03",
+   "file": "03_bayview_er_bill_fax.pdf",
+   "title": "Emergency department bill (faxed copy)"
+  },
+  {
+   "id": "D04",
+   "file": "04_coastline_mri_report.pdf",
+   "title": "MRI report, cervical spine"
+  },
+  {
+   "id": "D05",
+   "file": "05_coastline_imaging_bill.pdf",
+   "title": "Imaging bill"
+  },
+  {
+   "id": "D06",
+   "file": "06_pacific_ortho_notes.pdf",
+   "title": "Orthopedic and spine notes"
+  },
+  {
+   "id": "D07",
+   "file": "07_pacific_ortho_bill.pdf",
+   "title": "Orthopedic bill"
+  },
+  {
+   "id": "D08",
+   "file": "08_harbor_pt_notes_scanned.pdf",
+   "title": "Physical therapy notes (scanned)"
+  },
+  {
+   "id": "D09",
+   "file": "09_harbor_pt_bill.pdf",
+   "title": "Physical therapy bill"
+  }
+ ],
+ "pages": [
+  {
+   "doc": "D01",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D01",
+   "number": 2,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D02",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D03",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "ocr"
+  },
+  {
+   "doc": "D04",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D05",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D06",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D06",
+   "number": 2,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D06",
+   "number": 3,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D07",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  },
+  {
+   "doc": "D08",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "ocr"
+  },
+  {
+   "doc": "D08",
+   "number": 2,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "ocr"
+  },
+  {
+   "doc": "D09",
+   "number": 1,
+   "width": 612.0,
+   "height": 792.0,
+   "source": "text"
+  }
+ ],
+ "lines": [
+  {
+   "id": "D01.p1.l1",
+   "doc": "D01",
+   "page": 1,
+   "text": "Bayview Regional Medical Center",
+   "bbox": [
+    64.5,
+    63.1,
+    302.9,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l2",
+   "doc": "D01",
+   "page": 1,
+   "text": "2200 Harbor Blvd, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    257.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l3",
+   "doc": "D01",
+   "page": 1,
+   "text": "EMERGENCY DEPARTMENT PHYSICIAN RECORD",
+   "bbox": [
+    64.5,
+    103.8,
+    352.5,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l4",
+   "doc": "D01",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l5",
+   "doc": "D01",
+   "page": 1,
+   "text": "Date of service: 02/03/2026 Arrival: 14:32 MRN: BRM-4471902",
+   "bbox": [
+    64.5,
+    150.2,
+    379.6,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l6",
+   "doc": "D01",
+   "page": 1,
+   "text": "Attending physician: Daniel Okafor, MD",
+   "bbox": [
+    64.5,
+    167.4,
+    257.6,
+    181.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l7",
+   "doc": "D01",
+   "page": 1,
+   "text": "Chief complaint",
+   "bbox": [
+    64.5,
+    190.6,
+    143.3,
+    205.1
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l8",
+   "doc": "D01",
+   "page": 1,
+   "text": "Neck pain and low back pain after a motor vehicle collision.",
+   "bbox": [
+    64.5,
+    207.8,
+    339.4,
+    222.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l9",
+   "doc": "D01",
+   "page": 1,
+   "text": "History of present illness",
+   "bbox": [
+    64.5,
+    231.0,
+    190.0,
+    245.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l10",
+   "doc": "D01",
+   "page": 1,
+   "text": "37-year-old female, restrained driver, rear-ended at a stop light at moderate speed about one hour",
+   "bbox": [
+    64.5,
+    248.1,
+    520.3,
+    262.5
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l11",
+   "doc": "D01",
+   "page": 1,
+   "text": "before arrival. Airbags did not deploy. Reports immediate neck stiffness and low back pain, pain 7/10.",
+   "bbox": [
+    64.5,
+    262.3,
+    534.9,
+    276.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l12",
+   "doc": "D01",
+   "page": 1,
+   "text": "Denies loss of consciousness, numbness or weakness.",
+   "bbox": [
+    64.5,
+    276.4,
+    321.3,
+    290.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l13",
+   "doc": "D01",
+   "page": 1,
+   "text": "Examination",
+   "bbox": [
+    64.5,
+    299.7,
+    126.9,
+    314.1
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l14",
+   "doc": "D01",
+   "page": 1,
+   "text": "Tenderness over the cervical paraspinal muscles and the lumbar paraspinal muscles. Range of motion",
+   "bbox": [
+    64.5,
+    316.8,
+    540.7,
+    331.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l15",
+   "doc": "D01",
+   "page": 1,
+   "text": "of the neck reduced by pain. Strength 5/5 in all extremities. Sensation intact.",
+   "bbox": [
+    64.5,
+    331.0,
+    418.2,
+    345.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l16",
+   "doc": "D01",
+   "page": 1,
+   "text": "Imaging",
+   "bbox": [
+    64.5,
+    354.2,
+    104.8,
+    368.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l17",
+   "doc": "D01",
+   "page": 1,
+   "text": "CT head without contrast: no acute intracranial abnormality.",
+   "bbox": [
+    64.5,
+    371.3,
+    341.7,
+    385.8
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l18",
+   "doc": "D01",
+   "page": 1,
+   "text": "X-ray cervical spine, 3 views: no fracture or malalignment.",
+   "bbox": [
+    64.5,
+    385.5,
+    333.5,
+    399.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l19",
+   "doc": "D01",
+   "page": 1,
+   "text": "Treatment in the department",
+   "bbox": [
+    64.5,
+    408.7,
+    206.3,
+    423.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l20",
+   "doc": "D01",
+   "page": 1,
+   "text": "Ketorolac 30 mg IM given at 15:10. Pain improved to 5/10.",
+   "bbox": [
+    64.5,
+    425.8,
+    335.3,
+    440.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l21",
+   "doc": "D01",
+   "page": 1,
+   "text": "Diagnoses",
+   "bbox": [
+    64.5,
+    449.1,
+    117.6,
+    463.5
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l22",
+   "doc": "D01",
+   "page": 1,
+   "text": "1. S13.4XXA - Sprain of ligaments of cervical spine, initial encounter",
+   "bbox": [
+    64.5,
+    466.2,
+    381.4,
+    480.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l23",
+   "doc": "D01",
+   "page": 1,
+   "text": "2. S33.5XXA - Sprain of ligaments of lumbar spine, initial encounter",
+   "bbox": [
+    64.5,
+    480.4,
+    377.9,
+    494.8
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p1.l24",
+   "doc": "D01",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 2",
+   "bbox": [
+    64.5,
+    497.8,
+    372.1,
+    508.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l1",
+   "doc": "D01",
+   "page": 2,
+   "text": "Bayview Regional Medical Center",
+   "bbox": [
+    64.5,
+    63.1,
+    302.9,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l2",
+   "doc": "D01",
+   "page": 2,
+   "text": "2200 Harbor Blvd, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    257.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l3",
+   "doc": "D01",
+   "page": 2,
+   "text": "DISCHARGE INSTRUCTIONS",
+   "bbox": [
+    64.5,
+    103.8,
+    229.8,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l4",
+   "doc": "D01",
+   "page": 2,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l5",
+   "doc": "D01",
+   "page": 2,
+   "text": "Date of service: 02/03/2026 Discharged: 17:05, ambulatory, in stable condition",
+   "bbox": [
+    64.5,
+    150.2,
+    444.4,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l6",
+   "doc": "D01",
+   "page": 2,
+   "text": "Prescriptions",
+   "bbox": [
+    64.5,
+    173.5,
+    131.6,
+    187.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l7",
+   "doc": "D01",
+   "page": 2,
+   "text": "Cyclobenzaprine 5 mg, one tablet at bedtime as needed for muscle spasm, 10 tablets.",
+   "bbox": [
+    64.5,
+    190.6,
+    464.3,
+    205.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l8",
+   "doc": "D01",
+   "page": 2,
+   "text": "Ibuprofen 600 mg, one tablet every 8 hours with food, 20 tablets.",
+   "bbox": [
+    64.5,
+    204.8,
+    364.5,
+    219.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l9",
+   "doc": "D01",
+   "page": 2,
+   "text": "Follow-up",
+   "bbox": [
+    64.5,
+    228.0,
+    114.1,
+    242.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l10",
+   "doc": "D01",
+   "page": 2,
+   "text": "Follow up with an orthopedic or spine specialist within 1 to 2 weeks. Return to the emergency",
+   "bbox": [
+    64.5,
+    245.1,
+    496.9,
+    259.5
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l11",
+   "doc": "D01",
+   "page": 2,
+   "text": "department for new weakness, numbness, or loss of bladder or bowel control.",
+   "bbox": [
+    64.5,
+    259.3,
+    425.2,
+    273.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l12",
+   "doc": "D01",
+   "page": 2,
+   "text": "Electronically signed: Daniel Okafor, MD, 02/03/2026 17:20",
+   "bbox": [
+    64.5,
+    276.4,
+    340.0,
+    290.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D01.p2.l13",
+   "doc": "D01",
+   "page": 2,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 2 of 2",
+   "bbox": [
+    64.5,
+    293.9,
+    372.1,
+    304.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l1",
+   "doc": "D02",
+   "page": 1,
+   "text": "Bayview Regional Medical Center",
+   "bbox": [
+    64.5,
+    63.1,
+    302.9,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l2",
+   "doc": "D02",
+   "page": 1,
+   "text": "2200 Harbor Blvd, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    257.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l3",
+   "doc": "D02",
+   "page": 1,
+   "text": "ITEMIZED STATEMENT OF CHARGES",
+   "bbox": [
+    64.5,
+    103.8,
+    280.5,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l4",
+   "doc": "D02",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l5",
+   "doc": "D02",
+   "page": 1,
+   "text": "Account: BRM-ACCT-77310 Statement date: 03/01/2026",
+   "bbox": [
+    64.5,
+    150.2,
+    346.9,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l6",
+   "doc": "D02",
+   "page": 1,
+   "text": "Date of service CPT Description Units Charge",
+   "bbox": [
+    70.1,
+    174.1,
+    474.7,
+    187.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l7",
+   "doc": "D02",
+   "page": 1,
+   "text": "02/03/2026 99284 Emergency dept visit, moderate-high 1 $1,850.00",
+   "bbox": [
+    70.1,
+    193.5,
+    474.7,
+    206.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l8",
+   "doc": "D02",
+   "page": 1,
+   "text": "complexity",
+   "bbox": [
+    185.3,
+    206.4,
+    230.2,
+    219.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l9",
+   "doc": "D02",
+   "page": 1,
+   "text": "02/03/2026 70450 CT head/brain without contrast 1 $2,400.00",
+   "bbox": [
+    70.1,
+    225.8,
+    474.7,
+    238.8
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l10",
+   "doc": "D02",
+   "page": 1,
+   "text": "02/03/2026 72040 X-ray cervical spine, 2-3 views 1 $420.00",
+   "bbox": [
+    70.1,
+    245.2,
+    474.7,
+    258.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l11",
+   "doc": "D02",
+   "page": 1,
+   "text": "02/03/2026 96372 Therapeutic injection, IM (ketorolac) 1 $165.00",
+   "bbox": [
+    70.1,
+    264.6,
+    474.7,
+    277.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l12",
+   "doc": "D02",
+   "page": 1,
+   "text": "TOTAL CHARGES: $4,835.00",
+   "bbox": [
+    64.5,
+    290.7,
+    208.0,
+    305.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l13",
+   "doc": "D02",
+   "page": 1,
+   "text": "Payments and adjustments: $0.00. Balance due upon receipt. Questions: billing office.",
+   "bbox": [
+    64.5,
+    308.0,
+    388.6,
+    319.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D02.p1.l14",
+   "doc": "D02",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 1",
+   "bbox": [
+    64.5,
+    322.6,
+    372.1,
+    332.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D03.p1.l1",
+   "doc": "D03",
+   "page": 1,
+   "text": "FAX 03/04/2026 09:12 FROM: BAYVIEW RMC BILLING TO: VEGA FILE PAGE 1/1",
+   "bbox": [
+    55.4,
+    62.3,
+    474.5,
+    79.8
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.974,
+   "ocr_text": "FAX03/04/202609:12FROM:BAYVIEWRMCBILLINGTO:VEGAFILEPAGE1/1",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    55.4,
+    62.3,
+    374.9,
+    79.8
+   ]
+  },
+  {
+   "id": "D03.p1.l2",
+   "doc": "D03",
+   "page": 1,
+   "text": "Bayview Regional Medical Center",
+   "bbox": [
+    55.4,
+    80.6,
+    474.5,
+    101.4
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.974,
+   "ocr_text": "BayviewRegional MedicalCenter",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    57.8,
+    80.6,
+    298.4,
+    101.4
+   ]
+  },
+  {
+   "id": "D03.p1.l3",
+   "doc": "D03",
+   "page": 1,
+   "text": "2200 Harbor Blvd, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    55.4,
+    99.8,
+    474.5,
+    115.8
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.923,
+   "ocr_text": "2200Harbor\u00b7Blvd,Seaview,CA90000(fictional)",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    57.8,
+    99.8,
+    253.0,
+    115.8
+   ]
+  },
+  {
+   "id": "D03.p1.l4",
+   "doc": "D03",
+   "page": 1,
+   "text": "ITEMIZED STATEMENT OF CHARGES",
+   "bbox": [
+    55.4,
+    120.2,
+    474.5,
+    137.3
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.99,
+   "ocr_text": "ITEMIZEDSTATEMENTOFCHARGES",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    57.4,
+    120.2,
+    276.5,
+    137.3
+   ]
+  },
+  {
+   "id": "D03.p1.l5",
+   "doc": "D03",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    55.4,
+    146.1,
+    474.5,
+    162.5
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.936,
+   "ocr_text": "Patient:Marisol Vega DOB:07/19/1988",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    62.6,
+    146.1,
+    276.1,
+    162.5
+   ]
+  },
+  {
+   "id": "D03.p1.l6",
+   "doc": "D03",
+   "page": 1,
+   "text": "Account: BRM-ACCT-77310 Statement date: 03/01/2026",
+   "bbox": [
+    55.4,
+    164.9,
+    474.5,
+    182.8
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.966,
+   "ocr_text": "Account:BRM-ACCT-77310 Statementdate:03/01/2026",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    60.6,
+    164.9,
+    344.3,
+    182.8
+   ]
+  },
+  {
+   "id": "D03.p1.l7",
+   "doc": "D03",
+   "page": 1,
+   "text": "Date of service CPT Description Units Charge",
+   "bbox": [
+    55.4,
+    186.0,
+    474.5,
+    206.4
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.899,
+   "ocr_text": "Dateof service CPT Description Units' Charge",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    65.3,
+    186.0,
+    473.3,
+    206.4
+   ]
+  },
+  {
+   "id": "D03.p1.l8",
+   "doc": "D03",
+   "page": 1,
+   "text": "02/03/2026 99284 Emergency dept visit, moderate-high 1 $1,850.00",
+   "bbox": [
+    55.4,
+    205.2,
+    474.5,
+    224.7
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.817,
+   "ocr_text": "02/03/2026 99284 Emergency.deptvisit,moderate-high 1 $1,850.00",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.9,
+    205.2,
+    472.9,
+    224.7
+   ]
+  },
+  {
+   "id": "D03.p1.l9",
+   "doc": "D03",
+   "page": 1,
+   "text": "complexity",
+   "bbox": [
+    55.4,
+    223.5,
+    474.5,
+    235.5
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.996,
+   "ocr_text": "complexity",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    181.3,
+    223.5,
+    228.3,
+    235.5
+   ]
+  },
+  {
+   "id": "D03.p1.l10",
+   "doc": "D03",
+   "page": 1,
+   "text": "02/03/2026 70450 CT head/brain without contrast 1 $2,400.00",
+   "bbox": [
+    55.4,
+    237.1,
+    474.5,
+    256.7
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.989,
+   "ocr_text": "02/03/2026 70450 CThead/brainwithoutcontrast $2,400.00",
+   "agreement": 0.989,
+   "ocr_bbox": [
+    65.7,
+    237.1,
+    473.7,
+    256.7
+   ]
+  },
+  {
+   "id": "D03.p1.l11",
+   "doc": "D03",
+   "page": 1,
+   "text": "02/03/2026 72040 X-ray cervical spine, 2-3 views 1 $420.00",
+   "bbox": [
+    55.4,
+    255.5,
+    474.5,
+    276.2
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.914,
+   "ocr_text": "02/03/2026 72040 X-raycervical spine,2-3views 1 $420.00",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    65.7,
+    255.5,
+    474.5,
+    276.2
+   ]
+  },
+  {
+   "id": "D03.p1.l12",
+   "doc": "D03",
+   "page": 1,
+   "text": "02/03/2026 96372 Therapeutic injection, IM (ketorolac) 1 $165.00",
+   "bbox": [
+    55.4,
+    276.6,
+    474.5,
+    296.2
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.975,
+   "ocr_text": "02/03/2026 96372 Therapeuticinjection,IM(ketorolac) 1 $165.00",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    66.5,
+    276.6,
+    474.5,
+    296.2
+   ]
+  },
+  {
+   "id": "D03.p1.l13",
+   "doc": "D03",
+   "page": 1,
+   "text": "TOTAL CHARGES: $4,835.00",
+   "bbox": [
+    55.4,
+    308.6,
+    474.5,
+    322.5
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.986,
+   "ocr_text": "TOTAL CHARGES: $4,835.00",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    62.6,
+    308.6,
+    208.0,
+    322.5
+   ]
+  },
+  {
+   "id": "D03.p1.l14",
+   "doc": "D03",
+   "page": 1,
+   "text": "Payments and adjustments: $0.00. Balance due upon receipt. Questions: billing office.",
+   "bbox": [
+    55.4,
+    321.8,
+    474.5,
+    339.3
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.948,
+   "ocr_text": "Payments and adjustments:$o.oo.Balance dueuponreceipt.Questions:billing office.",
+   "agreement": 0.956,
+   "ocr_bbox": [
+    61.8,
+    321.8,
+    388.1,
+    339.3
+   ]
+  },
+  {
+   "id": "D03.p1.l15",
+   "doc": "D03",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 1",
+   "bbox": [
+    55.4,
+    336.5,
+    474.5,
+    352.1
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.953,
+   "ocr_text": "SAMPLERECORD-fictional patientandproviders-madefortheExhibit demo-page1of 1.",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    62.2,
+    336.5,
+    378.9,
+    352.1
+   ]
+  },
+  {
+   "id": "D04.p1.l1",
+   "doc": "D04",
+   "page": 1,
+   "text": "Coastline Imaging Associates",
+   "bbox": [
+    64.5,
+    63.1,
+    277.1,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l2",
+   "doc": "D04",
+   "page": 1,
+   "text": "41 Lighthouse Way, Suite 3, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    297.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l3",
+   "doc": "D04",
+   "page": 1,
+   "text": "MAGNETIC RESONANCE IMAGING REPORT",
+   "bbox": [
+    64.5,
+    103.8,
+    317.8,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l4",
+   "doc": "D04",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l5",
+   "doc": "D04",
+   "page": 1,
+   "text": "Exam: MRI cervical spine without contrast Exam date: Feb 17, 2026",
+   "bbox": [
+    64.5,
+    150.2,
+    390.7,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l6",
+   "doc": "D04",
+   "page": 1,
+   "text": "Referring physician: Daniel Okafor, MD Indication: neck pain radiating to the left arm after a motor",
+   "bbox": [
+    64.5,
+    167.4,
+    537.7,
+    181.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l7",
+   "doc": "D04",
+   "page": 1,
+   "text": "vehicle collision on 02/03/2026.",
+   "bbox": [
+    64.5,
+    181.6,
+    210.4,
+    196.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l8",
+   "doc": "D04",
+   "page": 1,
+   "text": "Findings",
+   "bbox": [
+    64.5,
+    204.8,
+    108.3,
+    219.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l9",
+   "doc": "D04",
+   "page": 1,
+   "text": "C4-C5: mild disc bulge without canal stenosis.",
+   "bbox": [
+    64.5,
+    221.9,
+    278.7,
+    236.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l10",
+   "doc": "D04",
+   "page": 1,
+   "text": "C5-C6: broad-based posterior disc protrusion with mild left neural foraminal narrowing, contacting the",
+   "bbox": [
+    64.5,
+    236.1,
+    533.7,
+    250.5
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l11",
+   "doc": "D04",
+   "page": 1,
+   "text": "exiting left C6 nerve root.",
+   "bbox": [
+    64.5,
+    250.3,
+    181.2,
+    264.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l12",
+   "doc": "D04",
+   "page": 1,
+   "text": "C6-C7: no significant disc abnormality.",
+   "bbox": [
+    64.5,
+    264.5,
+    243.6,
+    278.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l13",
+   "doc": "D04",
+   "page": 1,
+   "text": "Vertebral body heights are maintained. No fracture. Cord signal is normal.",
+   "bbox": [
+    64.5,
+    278.6,
+    407.1,
+    293.1
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l14",
+   "doc": "D04",
+   "page": 1,
+   "text": "Impression",
+   "bbox": [
+    64.5,
+    301.9,
+    120.5,
+    316.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l15",
+   "doc": "D04",
+   "page": 1,
+   "text": "1. C5-C6 disc protrusion with mild left foraminal narrowing (M50.222).",
+   "bbox": [
+    64.5,
+    319.0,
+    387.2,
+    333.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l16",
+   "doc": "D04",
+   "page": 1,
+   "text": "2. Mild C4-C5 disc bulge.",
+   "bbox": [
+    64.5,
+    333.1,
+    181.8,
+    347.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l17",
+   "doc": "D04",
+   "page": 1,
+   "text": "Interpreted by: Priya Raman, MD, Radiologist. Signed Feb 17, 2026.",
+   "bbox": [
+    64.5,
+    350.3,
+    382.0,
+    364.8
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D04.p1.l18",
+   "doc": "D04",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 1",
+   "bbox": [
+    64.5,
+    367.8,
+    372.1,
+    378.1
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l1",
+   "doc": "D05",
+   "page": 1,
+   "text": "Coastline Imaging Associates",
+   "bbox": [
+    64.5,
+    63.1,
+    277.1,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l2",
+   "doc": "D05",
+   "page": 1,
+   "text": "41 Lighthouse Way, Suite 3, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    297.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l3",
+   "doc": "D05",
+   "page": 1,
+   "text": "ITEMIZED STATEMENT OF CHARGES",
+   "bbox": [
+    64.5,
+    103.8,
+    280.5,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l4",
+   "doc": "D05",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l5",
+   "doc": "D05",
+   "page": 1,
+   "text": "Account: CIA-20931 Statement date: 03/10/2026",
+   "bbox": [
+    64.5,
+    150.2,
+    309.0,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l6",
+   "doc": "D05",
+   "page": 1,
+   "text": "Date of service CPT Description Units Charge",
+   "bbox": [
+    70.1,
+    174.1,
+    419.3,
+    187.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l7",
+   "doc": "D05",
+   "page": 1,
+   "text": "02/17/2026 72141 MRI cervical spine without 1 $2,950.00",
+   "bbox": [
+    70.1,
+    193.5,
+    419.3,
+    206.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l8",
+   "doc": "D05",
+   "page": 1,
+   "text": "contrast",
+   "bbox": [
+    185.3,
+    206.4,
+    219.1,
+    219.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l9",
+   "doc": "D05",
+   "page": 1,
+   "text": "TOTAL CHARGES: $2,950.00",
+   "bbox": [
+    64.5,
+    232.4,
+    208.0,
+    246.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l10",
+   "doc": "D05",
+   "page": 1,
+   "text": "Payments and adjustments: $0.00. Balance due upon receipt. Questions: billing office.",
+   "bbox": [
+    64.5,
+    249.8,
+    388.6,
+    261.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D05.p1.l11",
+   "doc": "D05",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 1",
+   "bbox": [
+    64.5,
+    264.3,
+    372.1,
+    274.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l1",
+   "doc": "D06",
+   "page": 1,
+   "text": "Pacific Spine & Orthopedics",
+   "bbox": [
+    64.5,
+    63.1,
+    265.4,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l2",
+   "doc": "D06",
+   "page": 1,
+   "text": "900 Pacific Ave, Floor 2, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    282.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l3",
+   "doc": "D06",
+   "page": 1,
+   "text": "NEW PATIENT CONSULTATION",
+   "bbox": [
+    64.5,
+    103.8,
+    245.8,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l4",
+   "doc": "D06",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l5",
+   "doc": "D06",
+   "page": 1,
+   "text": "Date of visit: 02/24/2026 Provider: Helen Park, MD",
+   "bbox": [
+    64.5,
+    150.2,
+    314.8,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l6",
+   "doc": "D06",
+   "page": 1,
+   "text": "History",
+   "bbox": [
+    64.5,
+    173.5,
+    100.7,
+    187.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l7",
+   "doc": "D06",
+   "page": 1,
+   "text": "Referred after a motor vehicle collision on 02/03/2026. Neck pain 6/10 with intermittent pain and tingling",
+   "bbox": [
+    64.5,
+    190.6,
+    545.4,
+    205.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l8",
+   "doc": "D06",
+   "page": 1,
+   "text": "into the left forearm. Low back pain improving. MRI of 02/17/2026 reviewed.",
+   "bbox": [
+    64.5,
+    204.8,
+    416.4,
+    219.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l9",
+   "doc": "D06",
+   "page": 1,
+   "text": "Examination",
+   "bbox": [
+    64.5,
+    228.0,
+    126.9,
+    242.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l10",
+   "doc": "D06",
+   "page": 1,
+   "text": "Spurling test positive on the left. Reduced cervical rotation. Strength 5/5. Reflexes symmetric.",
+   "bbox": [
+    64.5,
+    245.1,
+    498.1,
+    259.5
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l11",
+   "doc": "D06",
+   "page": 1,
+   "text": "Assessment",
+   "bbox": [
+    64.5,
+    268.3,
+    126.4,
+    282.8
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l12",
+   "doc": "D06",
+   "page": 1,
+   "text": "1. M50.222 - Cervical disc displacement at C5-C6 level",
+   "bbox": [
+    64.5,
+    285.4,
+    320.1,
+    299.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l13",
+   "doc": "D06",
+   "page": 1,
+   "text": "2. S13.4XXA - Sprain of ligaments of cervical spine",
+   "bbox": [
+    64.5,
+    299.6,
+    302.0,
+    314.1
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l14",
+   "doc": "D06",
+   "page": 1,
+   "text": "Plan",
+   "bbox": [
+    64.5,
+    322.9,
+    86.7,
+    337.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l15",
+   "doc": "D06",
+   "page": 1,
+   "text": "Physical therapy two times a week for six weeks. Continue ibuprofen as needed. Return in 6 to 8",
+   "bbox": [
+    64.5,
+    340.0,
+    512.7,
+    354.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l16",
+   "doc": "D06",
+   "page": 1,
+   "text": "weeks.",
+   "bbox": [
+    64.5,
+    354.1,
+    97.2,
+    368.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p1.l17",
+   "doc": "D06",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 3",
+   "bbox": [
+    64.5,
+    371.6,
+    372.1,
+    381.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l1",
+   "doc": "D06",
+   "page": 2,
+   "text": "Pacific Spine & Orthopedics",
+   "bbox": [
+    64.5,
+    63.1,
+    265.4,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l2",
+   "doc": "D06",
+   "page": 2,
+   "text": "900 Pacific Ave, Floor 2, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    282.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l3",
+   "doc": "D06",
+   "page": 2,
+   "text": "FOLLOW-UP VISIT",
+   "bbox": [
+    64.5,
+    103.8,
+    170.5,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l4",
+   "doc": "D06",
+   "page": 2,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l5",
+   "doc": "D06",
+   "page": 2,
+   "text": "Date of visit: 04/21/2026 Provider: Helen Park, MD",
+   "bbox": [
+    64.5,
+    150.2,
+    314.8,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l6",
+   "doc": "D06",
+   "page": 2,
+   "text": "Interval history",
+   "bbox": [
+    64.5,
+    173.5,
+    139.8,
+    187.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l7",
+   "doc": "D06",
+   "page": 2,
+   "text": "Completed six physical therapy sessions, then stopped after 03/19/2026 because of her work schedule.",
+   "bbox": [
+    64.5,
+    190.6,
+    544.8,
+    205.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l8",
+   "doc": "D06",
+   "page": 2,
+   "text": "Neck pain persists at 6/10 with left arm radiation that worsens with overhead work.",
+   "bbox": [
+    64.5,
+    204.8,
+    446.7,
+    219.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l9",
+   "doc": "D06",
+   "page": 2,
+   "text": "Assessment",
+   "bbox": [
+    64.5,
+    228.0,
+    126.4,
+    242.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l10",
+   "doc": "D06",
+   "page": 2,
+   "text": "M50.222 - Cervical disc displacement at C5-C6 level, persistent radicular symptoms despite",
+   "bbox": [
+    64.5,
+    245.1,
+    490.5,
+    259.5
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l11",
+   "doc": "D06",
+   "page": 2,
+   "text": "conservative care.",
+   "bbox": [
+    64.5,
+    259.3,
+    149.7,
+    273.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l12",
+   "doc": "D06",
+   "page": 2,
+   "text": "Plan",
+   "bbox": [
+    64.5,
+    282.5,
+    86.7,
+    297.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l13",
+   "doc": "D06",
+   "page": 2,
+   "text": "Cervical interlaminar epidural steroid injection at C5-C6. Risks, benefits and alternatives discussed;",
+   "bbox": [
+    64.5,
+    299.6,
+    524.9,
+    314.1
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l14",
+   "doc": "D06",
+   "page": 2,
+   "text": "patient agrees.",
+   "bbox": [
+    64.5,
+    313.8,
+    134.0,
+    328.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p2.l15",
+   "doc": "D06",
+   "page": 2,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 2 of 3",
+   "bbox": [
+    64.5,
+    331.3,
+    372.1,
+    341.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l1",
+   "doc": "D06",
+   "page": 3,
+   "text": "Pacific Spine & Orthopedics",
+   "bbox": [
+    64.5,
+    63.1,
+    265.4,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l2",
+   "doc": "D06",
+   "page": 3,
+   "text": "900 Pacific Ave, Floor 2, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    282.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l3",
+   "doc": "D06",
+   "page": 3,
+   "text": "PROCEDURE NOTE",
+   "bbox": [
+    64.5,
+    103.8,
+    177.8,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l4",
+   "doc": "D06",
+   "page": 3,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l5",
+   "doc": "D06",
+   "page": 3,
+   "text": "Date of procedure: 05/05/2026 Physician: Helen Park, MD",
+   "bbox": [
+    64.5,
+    150.2,
+    351.6,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l6",
+   "doc": "D06",
+   "page": 3,
+   "text": "Procedure: Cervical interlaminar epidural steroid injection, C5-C6, under fluoroscopic guidance (CPT",
+   "bbox": [
+    64.5,
+    167.4,
+    535.4,
+    181.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l7",
+   "doc": "D06",
+   "page": 3,
+   "text": "62321, 77003).",
+   "bbox": [
+    64.5,
+    181.6,
+    135.1,
+    196.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l8",
+   "doc": "D06",
+   "page": 3,
+   "text": "Pre-procedure diagnosis: M50.222 - Cervical disc displacement at C5-C6 level.",
+   "bbox": [
+    64.5,
+    198.8,
+    441.4,
+    213.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l9",
+   "doc": "D06",
+   "page": 3,
+   "text": "Description: Prone position, sterile preparation. Under fluoroscopy, the C5-C6 interlaminar space was",
+   "bbox": [
+    64.5,
+    215.9,
+    540.7,
+    230.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l10",
+   "doc": "D06",
+   "page": 3,
+   "text": "entered using a loss-of-resistance technique. Contrast confirmed epidural spread. Injected 80 mg",
+   "bbox": [
+    64.5,
+    230.1,
+    515.0,
+    244.5
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l11",
+   "doc": "D06",
+   "page": 3,
+   "text": "triamcinolone with 3 mL preservative-free saline. No complications.",
+   "bbox": [
+    64.5,
+    244.3,
+    375.5,
+    258.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l12",
+   "doc": "D06",
+   "page": 3,
+   "text": "Pain: 6/10 before, 2/10 after the procedure.",
+   "bbox": [
+    64.5,
+    261.5,
+    267.0,
+    276.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D06.p3.l13",
+   "doc": "D06",
+   "page": 3,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 3 of 3",
+   "bbox": [
+    64.5,
+    278.9,
+    372.1,
+    289.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l1",
+   "doc": "D07",
+   "page": 1,
+   "text": "Pacific Spine & Orthopedics",
+   "bbox": [
+    64.5,
+    63.1,
+    265.4,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l2",
+   "doc": "D07",
+   "page": 1,
+   "text": "900 Pacific Ave, Floor 2, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    282.6,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l3",
+   "doc": "D07",
+   "page": 1,
+   "text": "ITEMIZED STATEMENT OF CHARGES",
+   "bbox": [
+    64.5,
+    103.8,
+    280.5,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l4",
+   "doc": "D07",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l5",
+   "doc": "D07",
+   "page": 1,
+   "text": "Account: PSO-55120 Statement date: 05/20/2026",
+   "bbox": [
+    64.5,
+    150.2,
+    313.7,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l6",
+   "doc": "D07",
+   "page": 1,
+   "text": "Date of service CPT Description Units Charge",
+   "bbox": [
+    70.1,
+    174.1,
+    480.0,
+    187.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l7",
+   "doc": "D07",
+   "page": 1,
+   "text": "02/24/2026 99204 New patient office visit 1 $425.00",
+   "bbox": [
+    70.1,
+    193.5,
+    480.0,
+    206.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l8",
+   "doc": "D07",
+   "page": 1,
+   "text": "04/21/2026 99214 Established patient office visit 1 $210.00",
+   "bbox": [
+    70.1,
+    213.0,
+    480.0,
+    226.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l9",
+   "doc": "D07",
+   "page": 1,
+   "text": "05/05/2026 62321 Cervical epidural injection, with imaging guidance 1 $2,100.00",
+   "bbox": [
+    70.1,
+    232.4,
+    480.0,
+    245.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l10",
+   "doc": "D07",
+   "page": 1,
+   "text": "05/05/2026 77003 Fluoroscopic guidance, spine injection 1 $380.00",
+   "bbox": [
+    70.1,
+    251.8,
+    480.0,
+    264.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l11",
+   "doc": "D07",
+   "page": 1,
+   "text": "TOTAL CHARGES: $3,215.00",
+   "bbox": [
+    64.5,
+    277.9,
+    208.0,
+    292.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l12",
+   "doc": "D07",
+   "page": 1,
+   "text": "Payments and adjustments: $0.00. Balance due upon receipt. Questions: billing office.",
+   "bbox": [
+    64.5,
+    295.2,
+    388.6,
+    306.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D07.p1.l13",
+   "doc": "D07",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 1",
+   "bbox": [
+    64.5,
+    309.8,
+    372.1,
+    320.1
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D08.p1.l1",
+   "doc": "D08",
+   "page": 1,
+   "text": "Harbor Physical Therapy",
+   "bbox": [
+    63.8,
+    62.7,
+    521.2,
+    83.4
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.988,
+   "ocr_text": "HarborPhysical Therapy",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.9,
+    62.7,
+    244.6,
+    83.4
+   ]
+  },
+  {
+   "id": "D08.p1.l2",
+   "doc": "D08",
+   "page": 1,
+   "text": "17 Marina Court, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    63.8,
+    83.0,
+    521.2,
+    95.4
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.926,
+   "ocr_text": "17Marina Court;Seaview,CA 90000(fictional)",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    65.7,
+    83.0,
+    262.2,
+    95.4
+   ]
+  },
+  {
+   "id": "D08.p1.l3",
+   "doc": "D08",
+   "page": 1,
+   "text": "PHYSICAL THERAPY INITIAL EVALUATION",
+   "bbox": [
+    63.8,
+    103.0,
+    521.2,
+    118.2
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.974,
+   "ocr_text": "PHYSICALTHERAPYINITIAL.EVALUATION",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    63.8,
+    103.0,
+    316.0,
+    118.2
+   ]
+  },
+  {
+   "id": "D08.p1.l4",
+   "doc": "D08",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    63.8,
+    128.9,
+    521.2,
+    142.9
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.956,
+   "ocr_text": "Patient:MarisolVega DOB:07/19/1988",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    65.7,
+    128.9,
+    282.1,
+    142.9
+   ]
+  },
+  {
+   "id": "D08.p1.l5",
+   "doc": "D08",
+   "page": 1,
+   "text": "Date: 3/2/26 Therapist: Luis Moreno, PT, DPT",
+   "bbox": [
+    63.8,
+    149.3,
+    521.2,
+    163.3
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.931,
+   "ocr_text": "Date:3/2/26 Therapist:LuisMoreno,PT,DPT",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.5,
+    149.3,
+    293.3,
+    163.3
+   ]
+  },
+  {
+   "id": "D08.p1.l6",
+   "doc": "D08",
+   "page": 1,
+   "text": "Referral: Helen Park, MD. Diagnosis M50.222, S13.4XXA.",
+   "bbox": [
+    63.8,
+    166.1,
+    521.2,
+    182.4
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.94,
+   "ocr_text": "Referral:HelenPark,MD.DiagnosisM50.222,S13.4XXA.",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.5,
+    166.1,
+    340.7,
+    182.4
+   ]
+  },
+  {
+   "id": "D08.p1.l7",
+   "doc": "D08",
+   "page": 1,
+   "text": "Subjective: neck pain 6/10, tingling into the left forearm, difficulty with overhead reaching at work.",
+   "bbox": [
+    63.8,
+    183.6,
+    521.2,
+    200.8
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.919,
+   "ocr_text": "Subjective:neckpain6/10,tingling intotheleftforearm,difficultywithoverheadreaching atwork.",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.5,
+    183.6,
+    521.2,
+    200.8
+   ]
+  },
+  {
+   "id": "D08.p1.l8",
+   "doc": "D08",
+   "page": 1,
+   "text": "Objective: cervical rotation 45 degrees right, 40 degrees left. Neck Disability Index 38%.",
+   "bbox": [
+    63.8,
+    200.8,
+    521.2,
+    218.4
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.961,
+   "ocr_text": "Objective:cervical rotation45degreesright,40degreesleft.NeckDisabilityIndex38%.",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.5,
+    200.8,
+    478.1,
+    218.4
+   ]
+  },
+  {
+   "id": "D08.p1.l9",
+   "doc": "D08",
+   "page": 1,
+   "text": "Plan: therapeutic exercise and manual therapy, 2x per week for 6 weeks.",
+   "bbox": [
+    63.8,
+    218.0,
+    521.2,
+    235.1
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.96,
+   "ocr_text": "Plan:therapeuticexerciseandmanual therapy,2x.perweekfor6weeks.",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.1,
+    218.0,
+    406.8,
+    235.1
+   ]
+  },
+  {
+   "id": "D08.p1.l10",
+   "doc": "D08",
+   "page": 1,
+   "text": "Billing: 97161 PT evaluation, low complexity.",
+   "bbox": [
+    63.8,
+    235.1,
+    521.2,
+    250.7
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.972,
+   "ocr_text": "Billing:97161PTevaluation,lowcomplexity.",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.5,
+    235.1,
+    278.5,
+    250.7
+   ]
+  },
+  {
+   "id": "D08.p1.l11",
+   "doc": "D08",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 2",
+   "bbox": [
+    63.8,
+    251.9,
+    521.2,
+    265.5
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.956,
+   "ocr_text": "SAMPLERECORD-fictional patient andproviders-madefortheExhibit demo-page1of 2",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    63.8,
+    251.9,
+    374.5,
+    265.5
+   ]
+  },
+  {
+   "id": "D08.p2.l1",
+   "doc": "D08",
+   "page": 2,
+   "text": "Harbor Physical Therapy",
+   "bbox": [
+    63.8,
+    64.7,
+    374.5,
+    83.4
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.971,
+   "ocr_text": "HarborPhysical Therapy",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    65.3,
+    64.7,
+    243.0,
+    83.4
+   ]
+  },
+  {
+   "id": "D08.p2.l2",
+   "doc": "D08",
+   "page": 2,
+   "text": "17 Marina Court, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    63.8,
+    84.2,
+    374.5,
+    95.8
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.909,
+   "ocr_text": "17Marina Court,Seaview,CA90000 (fictional)",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.9,
+    84.2,
+    254.2,
+    95.8
+   ]
+  },
+  {
+   "id": "D08.p2.l3",
+   "doc": "D08",
+   "page": 2,
+   "text": "PHYSICAL THERAPY DAILY NOTES",
+   "bbox": [
+    63.8,
+    104.2,
+    374.5,
+    118.6
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.985,
+   "ocr_text": "PHYSICALTHERAPYDAILYNOTES",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    64.1,
+    104.2,
+    272.1,
+    118.6
+   ]
+  },
+  {
+   "id": "D08.p2.l4",
+   "doc": "D08",
+   "page": 2,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    63.8,
+    129.7,
+    374.5,
+    143.3
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.986,
+   "ocr_text": "Patient:MarisolVega DOB:07/19/1988",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    66.5,
+    129.7,
+    282.5,
+    143.3
+   ]
+  },
+  {
+   "id": "D08.p2.l5",
+   "doc": "D08",
+   "page": 2,
+   "text": "Date Treatment Pain Notes",
+   "bbox": [
+    63.8,
+    155.7,
+    374.5,
+    170.5
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.99,
+   "ocr_text": "Date Treatment Pain Notes",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    74.1,
+    155.7,
+    326.3,
+    170.5
+   ]
+  },
+  {
+   "id": "D08.p2.l6",
+   "doc": "D08",
+   "page": 2,
+   "text": "3/5/26 97110 x2, 97140 6/10 Tolerated well.",
+   "bbox": [
+    63.8,
+    176.4,
+    374.5,
+    189.2
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.759,
+   "ocr_text": "3/ 97110 x2 97140 6/10 Toleratedwell.",
+   "agreement": 0.951,
+   "ocr_bbox": [
+    70.1,
+    176.4,
+    286.1,
+    189.2
+   ]
+  },
+  {
+   "id": "D08.p2.l7",
+   "doc": "D08",
+   "page": 2,
+   "text": "3/9/26 97110 x2, 97140 5/10 Improved rotation.",
+   "bbox": [
+    63.8,
+    195.6,
+    374.5,
+    209.2
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.79,
+   "ocr_text": "3/ 9711 x2, 97140 5/10 Improvedrotation.",
+   "agreement": 0.939,
+   "ocr_bbox": [
+    70.1,
+    195.6,
+    301.6,
+    209.2
+   ]
+  },
+  {
+   "id": "D08.p2.l8",
+   "doc": "D08",
+   "page": 2,
+   "text": "3/12/26 97110 x2, 97140 5/10 Home exercises reviewed.",
+   "bbox": [
+    63.8,
+    215.6,
+    374.5,
+    228.3
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.948,
+   "ocr_text": "3/ 26 971 0 2 97140 5/10 Home exercisesreviewed.",
+   "agreement": 0.949,
+   "ocr_bbox": [
+    70.1,
+    215.6,
+    336.7,
+    228.3
+   ]
+  },
+  {
+   "id": "D08.p2.l9",
+   "doc": "D08",
+   "page": 2,
+   "text": "3/16/26 97110 x2, 97140 4/10 Less tingling.",
+   "bbox": [
+    63.8,
+    235.5,
+    374.5,
+    247.5
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.797,
+   "ocr_text": "6 26 97110 x2 97140 4/10 Lesst tingling.",
+   "agreement": 0.952,
+   "ocr_bbox": [
+    83.7,
+    235.5,
+    279.7,
+    247.5
+   ]
+  },
+  {
+   "id": "D08.p2.l10",
+   "doc": "D08",
+   "page": 2,
+   "text": "3/19/26 97110 x2, 97140 4/10 Patient to hold PT due to work",
+   "bbox": [
+    63.8,
+    254.7,
+    374.5,
+    266.7
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.757,
+   "ocr_text": "3/19/ /26 97110 X2 97140 4/10 PatienttoholdPTduetowork",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    69.3,
+    254.7,
+    353.4,
+    266.7
+   ]
+  },
+  {
+   "id": "D08.p2.l11",
+   "doc": "D08",
+   "page": 2,
+   "text": "schedule.",
+   "bbox": [
+    63.8,
+    266.7,
+    374.5,
+    279.8
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.988,
+   "ocr_text": "schedule.",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    222.3,
+    266.7,
+    266.6,
+    279.8
+   ]
+  },
+  {
+   "id": "D08.p2.l12",
+   "doc": "D08",
+   "page": 2,
+   "text": "Signed: Luis Moreno, PT, DPT",
+   "bbox": [
+    63.8,
+    286.2,
+    374.5,
+    300.2
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.93,
+   "ocr_text": "Signed:LuisMoreno,PT,DPT",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    63.8,
+    286.2,
+    209.2,
+    300.2
+   ]
+  },
+  {
+   "id": "D08.p2.l13",
+   "doc": "D08",
+   "page": 2,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 2 of 2",
+   "bbox": [
+    63.8,
+    302.6,
+    374.5,
+    315.0
+   ],
+   "source": "ocr+vision",
+   "confidence": 0.936,
+   "ocr_text": "SAMPLERECORD-fictional patient andproviders-made fortheExhibit demo.page2of 2",
+   "agreement": 1.0,
+   "ocr_bbox": [
+    63.8,
+    302.6,
+    374.5,
+    315.0
+   ]
+  },
+  {
+   "id": "D09.p1.l1",
+   "doc": "D09",
+   "page": 1,
+   "text": "Harbor Physical Therapy",
+   "bbox": [
+    64.5,
+    63.1,
+    241.2,
+    83.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l2",
+   "doc": "D09",
+   "page": 1,
+   "text": "17 Marina Court, Seaview, CA 90000 (fictional)",
+   "bbox": [
+    64.5,
+    83.8,
+    252.1,
+    96.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l3",
+   "doc": "D09",
+   "page": 1,
+   "text": "ITEMIZED STATEMENT OF CHARGES",
+   "bbox": [
+    64.5,
+    103.8,
+    280.5,
+    120.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l4",
+   "doc": "D09",
+   "page": 1,
+   "text": "Patient: Marisol Vega DOB: 07/19/1988",
+   "bbox": [
+    67.5,
+    130.1,
+    279.5,
+    144.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l5",
+   "doc": "D09",
+   "page": 1,
+   "text": "Account: HPT-3381 Statement date: 04/01/2026",
+   "bbox": [
+    64.5,
+    150.2,
+    306.7,
+    164.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l6",
+   "doc": "D09",
+   "page": 1,
+   "text": "Date of service CPT Description Units Charge",
+   "bbox": [
+    70.1,
+    174.1,
+    409.8,
+    187.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l7",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/02/2026 97161 PT evaluation, low complexity 1 $185.00",
+   "bbox": [
+    70.1,
+    193.5,
+    409.8,
+    206.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l8",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/05/2026 97110 Therapeutic exercise, each 15 min 2 $160.00",
+   "bbox": [
+    70.1,
+    213.0,
+    409.8,
+    226.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l9",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/05/2026 97140 Manual therapy, each 15 min 1 $85.00",
+   "bbox": [
+    70.1,
+    232.4,
+    409.8,
+    245.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l10",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/09/2026 97110 Therapeutic exercise, each 15 min 2 $160.00",
+   "bbox": [
+    70.1,
+    251.8,
+    409.8,
+    264.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l11",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/09/2026 97140 Manual therapy, each 15 min 1 $85.00",
+   "bbox": [
+    70.1,
+    271.2,
+    409.8,
+    284.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l12",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/12/2026 97110 Therapeutic exercise, each 15 min 2 $160.00",
+   "bbox": [
+    70.1,
+    290.7,
+    409.8,
+    303.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l13",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/12/2026 97140 Manual therapy, each 15 min 1 $85.00",
+   "bbox": [
+    70.1,
+    310.1,
+    409.8,
+    323.1
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l14",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/16/2026 97110 Therapeutic exercise, each 15 min 2 $160.00",
+   "bbox": [
+    70.1,
+    329.5,
+    409.8,
+    342.6
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l15",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/16/2026 97140 Manual therapy, each 15 min 1 $85.00",
+   "bbox": [
+    70.1,
+    348.9,
+    409.8,
+    362.0
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l16",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/19/2026 97110 Therapeutic exercise, each 15 min 2 $160.00",
+   "bbox": [
+    70.1,
+    368.4,
+    409.8,
+    381.4
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l17",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/19/2026 97140 Manual therapy, each 15 min 1 $85.00",
+   "bbox": [
+    70.1,
+    387.8,
+    409.8,
+    400.8
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l18",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/23/2026 97110 Therapeutic exercise, each 15 min 2 $160.00",
+   "bbox": [
+    70.1,
+    407.2,
+    409.8,
+    420.3
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l19",
+   "doc": "D09",
+   "page": 1,
+   "text": "03/23/2026 97140 Manual therapy, each 15 min 1 $85.00",
+   "bbox": [
+    70.1,
+    426.6,
+    409.8,
+    439.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l20",
+   "doc": "D09",
+   "page": 1,
+   "text": "TOTAL CHARGES: $1,655.00",
+   "bbox": [
+    64.5,
+    452.7,
+    208.0,
+    467.2
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l21",
+   "doc": "D09",
+   "page": 1,
+   "text": "Payments and adjustments: $0.00. Balance due upon receipt. Questions: billing office.",
+   "bbox": [
+    64.5,
+    470.0,
+    388.6,
+    481.7
+   ],
+   "source": "text",
+   "confidence": 1.0
+  },
+  {
+   "id": "D09.p1.l22",
+   "doc": "D09",
+   "page": 1,
+   "text": "SAMPLE RECORD - fictional patient and providers - made for the Exhibit demo - page 1 of 1",
+   "bbox": [
+    64.5,
+    484.6,
+    372.1,
+    494.9
+   ],
+   "source": "text",
+   "confidence": 1.0
+  }
+ ],
+ "duplicates": {
+  "D03": {
+   "of": "D02",
+   "similarity": 1.0
+  }
+ },
+ "extractions": {
+  "D01": {
+   "document_type": "medical_record",
+   "patient_name": {
+    "value": "Marisol Vega",
+    "line_ids": [
+     "D01.p1.l4"
+    ]
+   },
+   "encounters": [
+    {
+     "date": {
+      "value": "2026-02-03",
+      "line_ids": [
+       "D01.p1.l5"
+      ]
+     },
+     "provider": {
+      "value": "Bayview Regional Medical Center",
+      "line_ids": [
+       "D01.p1.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Daniel Okafor, MD",
+      "line_ids": [
+       "D01.p1.l6"
+      ]
+     },
+     "kind": "emergency",
+     "diagnoses": [
+      {
+       "code": {
+        "value": "S13.4XXA",
+        "line_ids": [
+         "D01.p1.l22"
+        ]
+       },
+       "description": "Sprain of ligaments of cervical spine, initial encounter"
+      },
+      {
+       "code": {
+        "value": "S33.5XXA",
+        "line_ids": [
+         "D01.p1.l23"
+        ]
+       },
+       "description": "Sprain of ligaments of lumbar spine, initial encounter"
+      }
+     ],
+     "procedures": [],
+     "key_facts": [
+      {
+       "value": "Reports immediate neck stiffness and low back pain, pain 7/10.",
+       "line_ids": [
+        "D01.p1.l11"
+       ]
+      },
+      {
+       "value": "X-ray cervical spine, 3 views: no fracture or malalignment.",
+       "line_ids": [
+        "D01.p1.l18"
+       ]
+      },
+      {
+       "value": "Ketorolac 30 mg IM given at 15:10. Pain improved to 5/10.",
+       "line_ids": [
+        "D01.p1.l20"
+       ]
+      },
+      {
+       "value": "Follow up with an orthopedic or spine specialist within 1 to 2 weeks.",
+       "line_ids": [
+        "D01.p2.l10"
+       ]
+      }
+     ]
+    }
+   ],
+   "bills": []
+  },
+  "D02": {
+   "document_type": "bill",
+   "patient_name": {
+    "value": "Marisol Vega",
+    "line_ids": [
+     "D02.p1.l4"
+    ]
+   },
+   "encounters": [],
+   "bills": [
+    {
+     "provider": {
+      "value": "Bayview Regional Medical Center",
+      "line_ids": [
+       "D02.p1.l1"
+      ]
+     },
+     "account": {
+      "value": "BRM-ACCT-77310",
+      "line_ids": [
+       "D02.p1.l5"
+      ]
+     },
+     "lines": [
+      {
+       "date": {
+        "value": "2026-02-03",
+        "line_ids": [
+         "D02.p1.l7"
+        ]
+       },
+       "code": {
+        "value": "99284",
+        "line_ids": [
+         "D02.p1.l7"
+        ]
+       },
+       "description": "Emergency dept visit, moderate-high complexity",
+       "units": "1",
+       "charge": {
+        "value": "1850.00",
+        "line_ids": [
+         "D02.p1.l7"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-02-03",
+        "line_ids": [
+         "D02.p1.l9"
+        ]
+       },
+       "code": {
+        "value": "70450",
+        "line_ids": [
+         "D02.p1.l9"
+        ]
+       },
+       "description": "CT head/brain without contrast",
+       "units": "1",
+       "charge": {
+        "value": "2400.00",
+        "line_ids": [
+         "D02.p1.l9"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-02-03",
+        "line_ids": [
+         "D02.p1.l10"
+        ]
+       },
+       "code": {
+        "value": "72040",
+        "line_ids": [
+         "D02.p1.l10"
+        ]
+       },
+       "description": "X-ray cervical spine, 2-3 views",
+       "units": "1",
+       "charge": {
+        "value": "420.00",
+        "line_ids": [
+         "D02.p1.l10"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-02-03",
+        "line_ids": [
+         "D02.p1.l11"
+        ]
+       },
+       "code": {
+        "value": "96372",
+        "line_ids": [
+         "D02.p1.l11"
+        ]
+       },
+       "description": "Therapeutic injection, IM (ketorolac)",
+       "units": "1",
+       "charge": {
+        "value": "165.00",
+        "line_ids": [
+         "D02.p1.l11"
+        ]
+       }
+      }
+     ],
+     "printed_total": {
+      "value": "4835.00",
+      "line_ids": [
+       "D02.p1.l12"
+      ]
+     }
+    }
+   ]
+  },
+  "D04": {
+   "document_type": "medical_record",
+   "patient_name": {
+    "value": "Marisol Vega",
+    "line_ids": [
+     "D04.p1.l4"
+    ]
+   },
+   "encounters": [
+    {
+     "date": {
+      "value": "2026-02-17",
+      "line_ids": [
+       "D04.p1.l5"
+      ]
+     },
+     "provider": {
+      "value": "Coastline Imaging Associates",
+      "line_ids": [
+       "D04.p1.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Priya Raman, MD",
+      "line_ids": [
+       "D04.p1.l17"
+      ]
+     },
+     "kind": "imaging",
+     "diagnoses": [
+      {
+       "code": {
+        "value": "M50.222",
+        "line_ids": [
+         "D04.p1.l15"
+        ]
+       },
+       "description": "C5-C6 disc protrusion with mild left foraminal narrowing"
+      }
+     ],
+     "procedures": [],
+     "key_facts": [
+      {
+       "value": "C5-C6: broad-based posterior disc protrusion with mild left neural foraminal narrowing, contacting the exiting left C6 nerve root.",
+       "line_ids": [
+        "D04.p1.l10",
+        "D04.p1.l11"
+       ]
+      },
+      {
+       "value": "C4-C5: mild disc bulge without canal stenosis.",
+       "line_ids": [
+        "D04.p1.l9"
+       ]
+      },
+      {
+       "value": "Vertebral body heights are maintained. No fracture. Cord signal is normal.",
+       "line_ids": [
+        "D04.p1.l13"
+       ]
+      },
+      {
+       "value": "neck pain radiating to the left arm after a motor vehicle collision on 02/03/2026.",
+       "line_ids": [
+        "D04.p1.l6",
+        "D04.p1.l7"
+       ]
+      }
+     ]
+    }
+   ],
+   "bills": []
+  },
+  "D05": {
+   "document_type": "bill",
+   "patient_name": {
+    "value": "Marisol Vega",
+    "line_ids": [
+     "D05.p1.l4"
+    ]
+   },
+   "encounters": [],
+   "bills": [
+    {
+     "provider": {
+      "value": "Coastline Imaging Associates",
+      "line_ids": [
+       "D05.p1.l1"
+      ]
+     },
+     "account": {
+      "value": "CIA-20931",
+      "line_ids": [
+       "D05.p1.l5"
+      ]
+     },
+     "lines": [
+      {
+       "date": {
+        "value": "2026-02-17",
+        "line_ids": [
+         "D05.p1.l7"
+        ]
+       },
+       "code": {
+        "value": "72141",
+        "line_ids": [
+         "D05.p1.l7"
+        ]
+       },
+       "description": "MRI cervical spine without contrast",
+       "units": "1",
+       "charge": {
+        "value": "2950.00",
+        "line_ids": [
+         "D05.p1.l7"
+        ]
+       }
+      }
+     ],
+     "printed_total": {
+      "value": "2950.00",
+      "line_ids": [
+       "D05.p1.l9"
+      ]
+     }
+    }
+   ]
+  },
+  "D06": {
+   "document_type": "medical_record",
+   "patient_name": {
+    "value": "Marisol Vega",
+    "line_ids": [
+     "D06.p1.l4"
+    ]
+   },
+   "encounters": [
+    {
+     "date": {
+      "value": "2026-02-24",
+      "line_ids": [
+       "D06.p1.l5"
+      ]
+     },
+     "provider": {
+      "value": "Pacific Spine & Orthopedics",
+      "line_ids": [
+       "D06.p1.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Helen Park, MD",
+      "line_ids": [
+       "D06.p1.l5"
+      ]
+     },
+     "kind": "office_visit",
+     "diagnoses": [
+      {
+       "code": {
+        "value": "M50.222",
+        "line_ids": [
+         "D06.p1.l12"
+        ]
+       },
+       "description": "Cervical disc displacement at C5-C6 level"
+      },
+      {
+       "code": {
+        "value": "S13.4XXA",
+        "line_ids": [
+         "D06.p1.l13"
+        ]
+       },
+       "description": "Sprain of ligaments of cervical spine"
+      }
+     ],
+     "procedures": [],
+     "key_facts": [
+      {
+       "value": "Neck pain 6/10 with intermittent pain and tingling into the left forearm.",
+       "line_ids": [
+        "D06.p1.l7",
+        "D06.p1.l8"
+       ]
+      },
+      {
+       "value": "Spurling test positive on the left.",
+       "line_ids": [
+        "D06.p1.l10"
+       ]
+      },
+      {
+       "value": "Reduced cervical rotation.",
+       "line_ids": [
+        "D06.p1.l10"
+       ]
+      },
+      {
+       "value": "Physical therapy two times a week for six weeks.",
+       "line_ids": [
+        "D06.p1.l15"
+       ]
+      }
+     ]
+    },
+    {
+     "date": {
+      "value": "2026-04-21",
+      "line_ids": [
+       "D06.p2.l5"
+      ]
+     },
+     "provider": {
+      "value": "Pacific Spine & Orthopedics",
+      "line_ids": [
+       "D06.p2.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Helen Park, MD",
+      "line_ids": [
+       "D06.p2.l5"
+      ]
+     },
+     "kind": "office_visit",
+     "diagnoses": [
+      {
+       "code": {
+        "value": "M50.222",
+        "line_ids": [
+         "D06.p2.l10"
+        ]
+       },
+       "description": "Cervical disc displacement at C5-C6 level"
+      }
+     ],
+     "procedures": [],
+     "key_facts": [
+      {
+       "value": "Completed six physical therapy sessions, then stopped after 03/19/2026 because of her work schedule.",
+       "line_ids": [
+        "D06.p2.l7"
+       ]
+      },
+      {
+       "value": "Neck pain persists at 6/10 with left arm radiation that worsens with overhead work.",
+       "line_ids": [
+        "D06.p2.l8"
+       ]
+      },
+      {
+       "value": "persistent radicular symptoms despite conservative care.",
+       "line_ids": [
+        "D06.p2.l10",
+        "D06.p2.l11"
+       ]
+      },
+      {
+       "value": "Cervical interlaminar epidural steroid injection at C5-C6.",
+       "line_ids": [
+        "D06.p2.l13"
+       ]
+      }
+     ]
+    },
+    {
+     "date": {
+      "value": "2026-05-05",
+      "line_ids": [
+       "D06.p3.l5"
+      ]
+     },
+     "provider": {
+      "value": "Pacific Spine & Orthopedics",
+      "line_ids": [
+       "D06.p3.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Helen Park, MD",
+      "line_ids": [
+       "D06.p3.l5"
+      ]
+     },
+     "kind": "procedure",
+     "diagnoses": [
+      {
+       "code": {
+        "value": "M50.222",
+        "line_ids": [
+         "D06.p3.l8"
+        ]
+       },
+       "description": "Cervical disc displacement at C5-C6 level"
+      }
+     ],
+     "procedures": [
+      {
+       "code": {
+        "value": "62321",
+        "line_ids": [
+         "D06.p3.l6",
+         "D06.p3.l7"
+        ]
+       },
+       "description": "Cervical interlaminar epidural steroid injection, C5-C6"
+      },
+      {
+       "code": {
+        "value": "77003",
+        "line_ids": [
+         "D06.p3.l7"
+        ]
+       },
+       "description": "Fluoroscopic guidance"
+      }
+     ],
+     "key_facts": [
+      {
+       "value": "Cervical interlaminar epidural steroid injection, C5-C6, under fluoroscopic guidance",
+       "line_ids": [
+        "D06.p3.l6"
+       ]
+      },
+      {
+       "value": "Injected 80 mg triamcinolone with 3 mL preservative-free saline.",
+       "line_ids": [
+        "D06.p3.l10",
+        "D06.p3.l11"
+       ]
+      },
+      {
+       "value": "No complications.",
+       "line_ids": [
+        "D06.p3.l11"
+       ]
+      },
+      {
+       "value": "Pain: 6/10 before, 2/10 after the procedure.",
+       "line_ids": [
+        "D06.p3.l12"
+       ]
+      }
+     ]
+    }
+   ],
+   "bills": []
+  },
+  "D07": {
+   "document_type": "bill",
+   "patient_name": {
+    "value": "Marisol Vega",
+    "line_ids": [
+     "D07.p1.l4"
+    ]
+   },
+   "encounters": [],
+   "bills": [
+    {
+     "provider": {
+      "value": "Pacific Spine & Orthopedics",
+      "line_ids": [
+       "D07.p1.l1"
+      ]
+     },
+     "account": {
+      "value": "PSO-55120",
+      "line_ids": [
+       "D07.p1.l5"
+      ]
+     },
+     "lines": [
+      {
+       "date": {
+        "value": "2026-02-24",
+        "line_ids": [
+         "D07.p1.l7"
+        ]
+       },
+       "code": {
+        "value": "99204",
+        "line_ids": [
+         "D07.p1.l7"
+        ]
+       },
+       "description": "New patient office visit",
+       "units": "1",
+       "charge": {
+        "value": "425.00",
+        "line_ids": [
+         "D07.p1.l7"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-04-21",
+        "line_ids": [
+         "D07.p1.l8"
+        ]
+       },
+       "code": {
+        "value": "99214",
+        "line_ids": [
+         "D07.p1.l8"
+        ]
+       },
+       "description": "Established patient office visit",
+       "units": "1",
+       "charge": {
+        "value": "210.00",
+        "line_ids": [
+         "D07.p1.l8"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-05-05",
+        "line_ids": [
+         "D07.p1.l9"
+        ]
+       },
+       "code": {
+        "value": "62321",
+        "line_ids": [
+         "D07.p1.l9"
+        ]
+       },
+       "description": "Cervical epidural injection, with imaging guidance",
+       "units": "1",
+       "charge": {
+        "value": "2100.00",
+        "line_ids": [
+         "D07.p1.l9"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-05-05",
+        "line_ids": [
+         "D07.p1.l10"
+        ]
+       },
+       "code": {
+        "value": "77003",
+        "line_ids": [
+         "D07.p1.l10"
+        ]
+       },
+       "description": "Fluoroscopic guidance, spine injection",
+       "units": "1",
+       "charge": {
+        "value": "380.00",
+        "line_ids": [
+         "D07.p1.l10"
+        ]
+       }
+      }
+     ],
+     "printed_total": {
+      "value": "3215.00",
+      "line_ids": [
+       "D07.p1.l11"
+      ]
+     }
+    }
+   ]
+  },
+  "D08": {
+   "document_type": "medical_record",
+   "patient_name": {
+    "value": "Marisol Vega",
+    "line_ids": [
+     "D08.p1.l4"
+    ]
+   },
+   "encounters": [
+    {
+     "date": {
+      "value": "2026-03-02",
+      "line_ids": [
+       "D08.p1.l5"
+      ]
+     },
+     "provider": {
+      "value": "Harbor Physical Therapy",
+      "line_ids": [
+       "D08.p1.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Luis Moreno, PT, DPT",
+      "line_ids": [
+       "D08.p1.l5"
+      ]
+     },
+     "kind": "physical_therapy",
+     "diagnoses": [
+      {
+       "code": {
+        "value": "M50.222",
+        "line_ids": [
+         "D08.p1.l6"
+        ]
+       },
+       "description": ""
+      },
+      {
+       "code": {
+        "value": "S13.4XXA",
+        "line_ids": [
+         "D08.p1.l6"
+        ]
+       },
+       "description": ""
+      }
+     ],
+     "procedures": [
+      {
+       "code": {
+        "value": "97161",
+        "line_ids": [
+         "D08.p1.l10"
+        ]
+       },
+       "description": "PT evaluation, low complexity"
+      }
+     ],
+     "key_facts": [
+      {
+       "value": "neck pain 6/10, tingling into the left forearm, difficulty with overhead reaching at work",
+       "line_ids": [
+        "D08.p1.l7"
+       ]
+      },
+      {
+       "value": "cervical rotation 45 degrees right, 40 degrees left",
+       "line_ids": [
+        "D08.p1.l8"
+       ]
+      },
+      {
+       "value": "Neck Disability Index 38%",
+       "line_ids": [
+        "D08.p1.l8"
+       ]
+      },
+      {
+       "value": "therapeutic exercise and manual therapy, 2x per week for 6 weeks",
+       "line_ids": [
+        "D08.p1.l9"
+       ]
+      }
+     ]
+    },
+    {
+     "date": {
+      "value": "2026-03-05",
+      "line_ids": [
+       "D08.p2.l6"
+      ]
+     },
+     "provider": {
+      "value": "Harbor Physical Therapy",
+      "line_ids": [
+       "D08.p2.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Luis Moreno, PT, DPT",
+      "line_ids": [
+       "D08.p2.l12"
+      ]
+     },
+     "kind": "physical_therapy",
+     "diagnoses": [],
+     "procedures": [
+      {
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D08.p2.l6"
+        ]
+       },
+       "description": ""
+      },
+      {
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D08.p2.l6"
+        ]
+       },
+       "description": ""
+      }
+     ],
+     "key_facts": [
+      {
+       "value": "6/10",
+       "line_ids": [
+        "D08.p2.l6"
+       ]
+      },
+      {
+       "value": "Tolerated well.",
+       "line_ids": [
+        "D08.p2.l6"
+       ]
+      }
+     ]
+    },
+    {
+     "date": {
+      "value": "2026-03-09",
+      "line_ids": [
+       "D08.p2.l7"
+      ]
+     },
+     "provider": {
+      "value": "Harbor Physical Therapy",
+      "line_ids": [
+       "D08.p2.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Luis Moreno, PT, DPT",
+      "line_ids": [
+       "D08.p2.l12"
+      ]
+     },
+     "kind": "physical_therapy",
+     "diagnoses": [],
+     "procedures": [
+      {
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D08.p2.l7"
+        ]
+       },
+       "description": ""
+      },
+      {
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D08.p2.l7"
+        ]
+       },
+       "description": ""
+      }
+     ],
+     "key_facts": [
+      {
+       "value": "5/10",
+       "line_ids": [
+        "D08.p2.l7"
+       ]
+      },
+      {
+       "value": "Improved rotation.",
+       "line_ids": [
+        "D08.p2.l7"
+       ]
+      }
+     ]
+    },
+    {
+     "date": {
+      "value": "2026-03-12",
+      "line_ids": [
+       "D08.p2.l8"
+      ]
+     },
+     "provider": {
+      "value": "Harbor Physical Therapy",
+      "line_ids": [
+       "D08.p2.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Luis Moreno, PT, DPT",
+      "line_ids": [
+       "D08.p2.l12"
+      ]
+     },
+     "kind": "physical_therapy",
+     "diagnoses": [],
+     "procedures": [
+      {
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D08.p2.l8"
+        ]
+       },
+       "description": ""
+      },
+      {
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D08.p2.l8"
+        ]
+       },
+       "description": ""
+      }
+     ],
+     "key_facts": [
+      {
+       "value": "5/10",
+       "line_ids": [
+        "D08.p2.l8"
+       ]
+      },
+      {
+       "value": "Home exercises reviewed.",
+       "line_ids": [
+        "D08.p2.l8"
+       ]
+      }
+     ]
+    },
+    {
+     "date": {
+      "value": "2026-03-16",
+      "line_ids": [
+       "D08.p2.l9"
+      ]
+     },
+     "provider": {
+      "value": "Harbor Physical Therapy",
+      "line_ids": [
+       "D08.p2.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Luis Moreno, PT, DPT",
+      "line_ids": [
+       "D08.p2.l12"
+      ]
+     },
+     "kind": "physical_therapy",
+     "diagnoses": [],
+     "procedures": [
+      {
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D08.p2.l9"
+        ]
+       },
+       "description": ""
+      },
+      {
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D08.p2.l9"
+        ]
+       },
+       "description": ""
+      }
+     ],
+     "key_facts": [
+      {
+       "value": "4/10",
+       "line_ids": [
+        "D08.p2.l9"
+       ]
+      },
+      {
+       "value": "Less tingling.",
+       "line_ids": [
+        "D08.p2.l9"
+       ]
+      }
+     ]
+    },
+    {
+     "date": {
+      "value": "2026-03-19",
+      "line_ids": [
+       "D08.p2.l10"
+      ]
+     },
+     "provider": {
+      "value": "Harbor Physical Therapy",
+      "line_ids": [
+       "D08.p2.l1"
+      ]
+     },
+     "clinician": {
+      "value": "Luis Moreno, PT, DPT",
+      "line_ids": [
+       "D08.p2.l12"
+      ]
+     },
+     "kind": "physical_therapy",
+     "diagnoses": [],
+     "procedures": [
+      {
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D08.p2.l10"
+        ]
+       },
+       "description": ""
+      },
+      {
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D08.p2.l10"
+        ]
+       },
+       "description": ""
+      }
+     ],
+     "key_facts": [
+      {
+       "value": "4/10",
+       "line_ids": [
+        "D08.p2.l10"
+       ]
+      },
+      {
+       "value": "Patient to hold PT due to work schedule.",
+       "line_ids": [
+        "D08.p2.l10",
+        "D08.p2.l11"
+       ]
+      }
+     ]
+    }
+   ],
+   "bills": []
+  },
+  "D09": {
+   "document_type": "bill",
+   "patient_name": {
+    "value": "Marisol Vega",
+    "line_ids": [
+     "D09.p1.l4"
+    ]
+   },
+   "encounters": [],
+   "bills": [
+    {
+     "provider": {
+      "value": "Harbor Physical Therapy",
+      "line_ids": [
+       "D09.p1.l1"
+      ]
+     },
+     "account": {
+      "value": "HPT-3381",
+      "line_ids": [
+       "D09.p1.l5"
+      ]
+     },
+     "lines": [
+      {
+       "date": {
+        "value": "2026-03-02",
+        "line_ids": [
+         "D09.p1.l7"
+        ]
+       },
+       "code": {
+        "value": "97161",
+        "line_ids": [
+         "D09.p1.l7"
+        ]
+       },
+       "description": "PT evaluation, low complexity",
+       "units": "1",
+       "charge": {
+        "value": "185.00",
+        "line_ids": [
+         "D09.p1.l7"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-05",
+        "line_ids": [
+         "D09.p1.l8"
+        ]
+       },
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D09.p1.l8"
+        ]
+       },
+       "description": "Therapeutic exercise, each 15 min",
+       "units": "2",
+       "charge": {
+        "value": "160.00",
+        "line_ids": [
+         "D09.p1.l8"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-05",
+        "line_ids": [
+         "D09.p1.l9"
+        ]
+       },
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D09.p1.l9"
+        ]
+       },
+       "description": "Manual therapy, each 15 min",
+       "units": "1",
+       "charge": {
+        "value": "85.00",
+        "line_ids": [
+         "D09.p1.l9"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-09",
+        "line_ids": [
+         "D09.p1.l10"
+        ]
+       },
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D09.p1.l10"
+        ]
+       },
+       "description": "Therapeutic exercise, each 15 min",
+       "units": "2",
+       "charge": {
+        "value": "160.00",
+        "line_ids": [
+         "D09.p1.l10"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-09",
+        "line_ids": [
+         "D09.p1.l11"
+        ]
+       },
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D09.p1.l11"
+        ]
+       },
+       "description": "Manual therapy, each 15 min",
+       "units": "1",
+       "charge": {
+        "value": "85.00",
+        "line_ids": [
+         "D09.p1.l11"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-12",
+        "line_ids": [
+         "D09.p1.l12"
+        ]
+       },
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D09.p1.l12"
+        ]
+       },
+       "description": "Therapeutic exercise, each 15 min",
+       "units": "2",
+       "charge": {
+        "value": "160.00",
+        "line_ids": [
+         "D09.p1.l12"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-12",
+        "line_ids": [
+         "D09.p1.l13"
+        ]
+       },
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D09.p1.l13"
+        ]
+       },
+       "description": "Manual therapy, each 15 min",
+       "units": "1",
+       "charge": {
+        "value": "85.00",
+        "line_ids": [
+         "D09.p1.l13"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-16",
+        "line_ids": [
+         "D09.p1.l14"
+        ]
+       },
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D09.p1.l14"
+        ]
+       },
+       "description": "Therapeutic exercise, each 15 min",
+       "units": "2",
+       "charge": {
+        "value": "160.00",
+        "line_ids": [
+         "D09.p1.l14"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-16",
+        "line_ids": [
+         "D09.p1.l15"
+        ]
+       },
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D09.p1.l15"
+        ]
+       },
+       "description": "Manual therapy, each 15 min",
+       "units": "1",
+       "charge": {
+        "value": "85.00",
+        "line_ids": [
+         "D09.p1.l15"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-19",
+        "line_ids": [
+         "D09.p1.l16"
+        ]
+       },
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D09.p1.l16"
+        ]
+       },
+       "description": "Therapeutic exercise, each 15 min",
+       "units": "2",
+       "charge": {
+        "value": "160.00",
+        "line_ids": [
+         "D09.p1.l16"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-19",
+        "line_ids": [
+         "D09.p1.l17"
+        ]
+       },
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D09.p1.l17"
+        ]
+       },
+       "description": "Manual therapy, each 15 min",
+       "units": "1",
+       "charge": {
+        "value": "85.00",
+        "line_ids": [
+         "D09.p1.l17"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-23",
+        "line_ids": [
+         "D09.p1.l18"
+        ]
+       },
+       "code": {
+        "value": "97110",
+        "line_ids": [
+         "D09.p1.l18"
+        ]
+       },
+       "description": "Therapeutic exercise, each 15 min",
+       "units": "2",
+       "charge": {
+        "value": "160.00",
+        "line_ids": [
+         "D09.p1.l18"
+        ]
+       }
+      },
+      {
+       "date": {
+        "value": "2026-03-23",
+        "line_ids": [
+         "D09.p1.l19"
+        ]
+       },
+       "code": {
+        "value": "97140",
+        "line_ids": [
+         "D09.p1.l19"
+        ]
+       },
+       "description": "Manual therapy, each 15 min",
+       "units": "1",
+       "charge": {
+        "value": "85.00",
+        "line_ids": [
+         "D09.p1.l19"
+        ]
+       }
+      }
+     ],
+     "printed_total": {
+      "value": "1655.00",
+      "line_ids": [
+       "D09.p1.l20"
+      ]
+     }
+    }
+   ]
+  }
+ },
+ "case": {
+  "encounters": [
+   {
+    "doc": "D01",
+    "date": {
+     "value": "2026-02-03",
+     "line_ids": [
+      "D01.p1.l5"
+     ],
+     "kind": "date",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Bayview Regional Medical Center",
+     "line_ids": [
+      "D01.p1.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Daniel Okafor, MD",
+     "line_ids": [
+      "D01.p1.l6"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "emergency",
+    "diagnoses": [
+     {
+      "code": {
+       "value": "S13.4XXA",
+       "line_ids": [
+        "D01.p1.l22"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Sprain of ligaments of cervical spine, initial encounter"
+     },
+     {
+      "code": {
+       "value": "S33.5XXA",
+       "line_ids": [
+        "D01.p1.l23"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Sprain of ligaments of lumbar spine, initial encounter"
+     }
+    ],
+    "procedures": [],
+    "key_facts": [
+     {
+      "value": "Reports immediate neck stiffness and low back pain, pain 7/10.",
+      "line_ids": [
+       "D01.p1.l11"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "X-ray cervical spine, 3 views: no fracture or malalignment.",
+      "line_ids": [
+       "D01.p1.l18"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Ketorolac 30 mg IM given at 15:10. Pain improved to 5/10.",
+      "line_ids": [
+       "D01.p1.l20"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Follow up with an orthopedic or spine specialist within 1 to 2 weeks.",
+      "line_ids": [
+       "D01.p2.l10"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Bayview Regional Medical Center"
+   },
+   {
+    "doc": "D04",
+    "date": {
+     "value": "2026-02-17",
+     "line_ids": [
+      "D04.p1.l5"
+     ],
+     "kind": "date",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Coastline Imaging Associates",
+     "line_ids": [
+      "D04.p1.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Priya Raman, MD",
+     "line_ids": [
+      "D04.p1.l17"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "imaging",
+    "diagnoses": [
+     {
+      "code": {
+       "value": "M50.222",
+       "line_ids": [
+        "D04.p1.l15"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "C5-C6 disc protrusion with mild left foraminal narrowing"
+     }
+    ],
+    "procedures": [],
+    "key_facts": [
+     {
+      "value": "C5-C6: broad-based posterior disc protrusion with mild left neural foraminal narrowing, contacting the exiting left C6 nerve root.",
+      "line_ids": [
+       "D04.p1.l10",
+       "D04.p1.l11"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "C4-C5: mild disc bulge without canal stenosis.",
+      "line_ids": [
+       "D04.p1.l9"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Vertebral body heights are maintained. No fracture. Cord signal is normal.",
+      "line_ids": [
+       "D04.p1.l13"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "neck pain radiating to the left arm after a motor vehicle collision on 02/03/2026.",
+      "line_ids": [
+       "D04.p1.l6",
+       "D04.p1.l7"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Coastline Imaging Associates"
+   },
+   {
+    "doc": "D06",
+    "date": {
+     "value": "2026-02-24",
+     "line_ids": [
+      "D06.p1.l5"
+     ],
+     "kind": "date",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Pacific Spine & Orthopedics",
+     "line_ids": [
+      "D06.p1.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Helen Park, MD",
+     "line_ids": [
+      "D06.p1.l5"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "office_visit",
+    "diagnoses": [
+     {
+      "code": {
+       "value": "M50.222",
+       "line_ids": [
+        "D06.p1.l12"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Cervical disc displacement at C5-C6 level"
+     },
+     {
+      "code": {
+       "value": "S13.4XXA",
+       "line_ids": [
+        "D06.p1.l13"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Sprain of ligaments of cervical spine"
+     }
+    ],
+    "procedures": [],
+    "key_facts": [
+     {
+      "value": "Neck pain 6/10 with intermittent pain and tingling into the left forearm.",
+      "line_ids": [
+       "D06.p1.l7",
+       "D06.p1.l8"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Spurling test positive on the left.",
+      "line_ids": [
+       "D06.p1.l10"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Reduced cervical rotation.",
+      "line_ids": [
+       "D06.p1.l10"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Physical therapy two times a week for six weeks.",
+      "line_ids": [
+       "D06.p1.l15"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Pacific Spine & Orthopedics"
+   },
+   {
+    "doc": "D08",
+    "date": {
+     "value": "2026-03-02",
+     "line_ids": [
+      "D08.p1.l5"
+     ],
+     "kind": "date",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Harbor Physical Therapy",
+     "line_ids": [
+      "D08.p1.l1"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Luis Moreno, PT, DPT",
+     "line_ids": [
+      "D08.p1.l5"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "physical_therapy",
+    "diagnoses": [
+     {
+      "code": {
+       "value": "M50.222",
+       "line_ids": [
+        "D08.p1.l6"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     },
+     {
+      "code": {
+       "value": "S13.4XXA",
+       "line_ids": [
+        "D08.p1.l6"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     }
+    ],
+    "procedures": [
+     {
+      "code": {
+       "value": "97161",
+       "line_ids": [
+        "D08.p1.l10"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "PT evaluation, low complexity"
+     }
+    ],
+    "key_facts": [
+     {
+      "value": "neck pain 6/10, tingling into the left forearm, difficulty with overhead reaching at work",
+      "line_ids": [
+       "D08.p1.l7"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "cervical rotation 45 degrees right, 40 degrees left",
+      "line_ids": [
+       "D08.p1.l8"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Neck Disability Index 38%",
+      "line_ids": [
+       "D08.p1.l8"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "therapeutic exercise and manual therapy, 2x per week for 6 weeks",
+      "line_ids": [
+       "D08.p1.l9"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Harbor Physical Therapy"
+   },
+   {
+    "doc": "D08",
+    "date": {
+     "value": "2026-03-05",
+     "line_ids": [
+      "D08.p2.l6"
+     ],
+     "kind": "date",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Harbor Physical Therapy",
+     "line_ids": [
+      "D08.p2.l1"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Luis Moreno, PT, DPT",
+     "line_ids": [
+      "D08.p2.l12"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "physical_therapy",
+    "diagnoses": [],
+    "procedures": [
+     {
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D08.p2.l6"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     },
+     {
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D08.p2.l6"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     }
+    ],
+    "key_facts": [
+     {
+      "value": "6/10",
+      "line_ids": [
+       "D08.p2.l6"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Tolerated well.",
+      "line_ids": [
+       "D08.p2.l6"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Harbor Physical Therapy"
+   },
+   {
+    "doc": "D08",
+    "date": {
+     "value": "2026-03-09",
+     "line_ids": [
+      "D08.p2.l7"
+     ],
+     "kind": "date",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Harbor Physical Therapy",
+     "line_ids": [
+      "D08.p2.l1"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Luis Moreno, PT, DPT",
+     "line_ids": [
+      "D08.p2.l12"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "physical_therapy",
+    "diagnoses": [],
+    "procedures": [
+     {
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D08.p2.l7"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     },
+     {
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D08.p2.l7"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     }
+    ],
+    "key_facts": [
+     {
+      "value": "5/10",
+      "line_ids": [
+       "D08.p2.l7"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Improved rotation.",
+      "line_ids": [
+       "D08.p2.l7"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Harbor Physical Therapy"
+   },
+   {
+    "doc": "D08",
+    "date": {
+     "value": "2026-03-12",
+     "line_ids": [
+      "D08.p2.l8"
+     ],
+     "kind": "date",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Harbor Physical Therapy",
+     "line_ids": [
+      "D08.p2.l1"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Luis Moreno, PT, DPT",
+     "line_ids": [
+      "D08.p2.l12"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "physical_therapy",
+    "diagnoses": [],
+    "procedures": [
+     {
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D08.p2.l8"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     },
+     {
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D08.p2.l8"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     }
+    ],
+    "key_facts": [
+     {
+      "value": "5/10",
+      "line_ids": [
+       "D08.p2.l8"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Home exercises reviewed.",
+      "line_ids": [
+       "D08.p2.l8"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Harbor Physical Therapy"
+   },
+   {
+    "doc": "D08",
+    "date": {
+     "value": "2026-03-16",
+     "line_ids": [
+      "D08.p2.l9"
+     ],
+     "kind": "date",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Harbor Physical Therapy",
+     "line_ids": [
+      "D08.p2.l1"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Luis Moreno, PT, DPT",
+     "line_ids": [
+      "D08.p2.l12"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "physical_therapy",
+    "diagnoses": [],
+    "procedures": [
+     {
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D08.p2.l9"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     },
+     {
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D08.p2.l9"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     }
+    ],
+    "key_facts": [
+     {
+      "value": "4/10",
+      "line_ids": [
+       "D08.p2.l9"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Less tingling.",
+      "line_ids": [
+       "D08.p2.l9"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Harbor Physical Therapy"
+   },
+   {
+    "doc": "D08",
+    "date": {
+     "value": "2026-03-19",
+     "line_ids": [
+      "D08.p2.l10"
+     ],
+     "kind": "date",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Harbor Physical Therapy",
+     "line_ids": [
+      "D08.p2.l1"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Luis Moreno, PT, DPT",
+     "line_ids": [
+      "D08.p2.l12"
+     ],
+     "kind": "name",
+     "evidence": "scan, re-read from a zoomed crop",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "physical_therapy",
+    "diagnoses": [],
+    "procedures": [
+     {
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D08.p2.l10"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     },
+     {
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D08.p2.l10"
+       ],
+       "kind": "code",
+       "evidence": "scan, re-read from a zoomed crop",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": ""
+     }
+    ],
+    "key_facts": [
+     {
+      "value": "4/10",
+      "line_ids": [
+       "D08.p2.l10"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Patient to hold PT due to work schedule.",
+      "line_ids": [
+       "D08.p2.l10",
+       "D08.p2.l11"
+      ],
+      "kind": "quote",
+      "evidence": "scan, re-read from a zoomed crop",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Harbor Physical Therapy"
+   },
+   {
+    "doc": "D06",
+    "date": {
+     "value": "2026-04-21",
+     "line_ids": [
+      "D06.p2.l5"
+     ],
+     "kind": "date",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Pacific Spine & Orthopedics",
+     "line_ids": [
+      "D06.p2.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Helen Park, MD",
+     "line_ids": [
+      "D06.p2.l5"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "office_visit",
+    "diagnoses": [
+     {
+      "code": {
+       "value": "M50.222",
+       "line_ids": [
+        "D06.p2.l10"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Cervical disc displacement at C5-C6 level"
+     }
+    ],
+    "procedures": [],
+    "key_facts": [
+     {
+      "value": "Completed six physical therapy sessions, then stopped after 03/19/2026 because of her work schedule.",
+      "line_ids": [
+       "D06.p2.l7"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Neck pain persists at 6/10 with left arm radiation that worsens with overhead work.",
+      "line_ids": [
+       "D06.p2.l8"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "persistent radicular symptoms despite conservative care.",
+      "line_ids": [
+       "D06.p2.l10",
+       "D06.p2.l11"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Cervical interlaminar epidural steroid injection at C5-C6.",
+      "line_ids": [
+       "D06.p2.l13"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Pacific Spine & Orthopedics"
+   },
+   {
+    "doc": "D06",
+    "date": {
+     "value": "2026-05-05",
+     "line_ids": [
+      "D06.p3.l5"
+     ],
+     "kind": "date",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "provider": {
+     "value": "Pacific Spine & Orthopedics",
+     "line_ids": [
+      "D06.p3.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "clinician": {
+     "value": "Helen Park, MD",
+     "line_ids": [
+      "D06.p3.l5"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "kind": "procedure",
+    "diagnoses": [
+     {
+      "code": {
+       "value": "M50.222",
+       "line_ids": [
+        "D06.p3.l8"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Cervical disc displacement at C5-C6 level"
+     }
+    ],
+    "procedures": [
+     {
+      "code": {
+       "value": "62321",
+       "line_ids": [
+        "D06.p3.l6",
+        "D06.p3.l7"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Cervical interlaminar epidural steroid injection, C5-C6"
+     },
+     {
+      "code": {
+       "value": "77003",
+       "line_ids": [
+        "D06.p3.l7"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Fluoroscopic guidance"
+     }
+    ],
+    "key_facts": [
+     {
+      "value": "Cervical interlaminar epidural steroid injection, C5-C6, under fluoroscopic guidance",
+      "line_ids": [
+       "D06.p3.l6"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Injected 80 mg triamcinolone with 3 mL preservative-free saline.",
+      "line_ids": [
+       "D06.p3.l10",
+       "D06.p3.l11"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "No complications.",
+      "line_ids": [
+       "D06.p3.l11"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     },
+     {
+      "value": "Pain: 6/10 before, 2/10 after the procedure.",
+      "line_ids": [
+       "D06.p3.l12"
+      ],
+      "kind": "quote",
+      "evidence": "text layer",
+      "status": "verified",
+      "reason": ""
+     }
+    ],
+    "verified": true,
+    "org": "Pacific Spine & Orthopedics"
+   }
+  ],
+  "bills": [
+   {
+    "doc": "D02",
+    "provider": {
+     "value": "Bayview Regional Medical Center",
+     "line_ids": [
+      "D02.p1.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "account": {
+     "value": "BRM-ACCT-77310",
+     "line_ids": [
+      "D02.p1.l5"
+     ],
+     "kind": "code",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "printed_total": {
+     "value": "4835.00",
+     "line_ids": [
+      "D02.p1.l12"
+     ],
+     "kind": "money",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "lines": [
+     {
+      "date": {
+       "value": "2026-02-03",
+       "line_ids": [
+        "D02.p1.l7"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "99284",
+       "line_ids": [
+        "D02.p1.l7"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Emergency dept visit, moderate-high complexity",
+      "units": "1",
+      "charge": {
+       "value": "1850.00",
+       "line_ids": [
+        "D02.p1.l7"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-02-03",
+       "line_ids": [
+        "D02.p1.l9"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "70450",
+       "line_ids": [
+        "D02.p1.l9"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "CT head/brain without contrast",
+      "units": "1",
+      "charge": {
+       "value": "2400.00",
+       "line_ids": [
+        "D02.p1.l9"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-02-03",
+       "line_ids": [
+        "D02.p1.l10"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "72040",
+       "line_ids": [
+        "D02.p1.l10"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "X-ray cervical spine, 2-3 views",
+      "units": "1",
+      "charge": {
+       "value": "420.00",
+       "line_ids": [
+        "D02.p1.l10"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-02-03",
+       "line_ids": [
+        "D02.p1.l11"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "96372",
+       "line_ids": [
+        "D02.p1.l11"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Therapeutic injection, IM (ketorolac)",
+      "units": "1",
+      "charge": {
+       "value": "165.00",
+       "line_ids": [
+        "D02.p1.l11"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     }
+    ],
+    "org": "Bayview Regional Medical Center"
+   },
+   {
+    "doc": "D05",
+    "provider": {
+     "value": "Coastline Imaging Associates",
+     "line_ids": [
+      "D05.p1.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "account": {
+     "value": "CIA-20931",
+     "line_ids": [
+      "D05.p1.l5"
+     ],
+     "kind": "code",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "printed_total": {
+     "value": "2950.00",
+     "line_ids": [
+      "D05.p1.l9"
+     ],
+     "kind": "money",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "lines": [
+     {
+      "date": {
+       "value": "2026-02-17",
+       "line_ids": [
+        "D05.p1.l7"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "72141",
+       "line_ids": [
+        "D05.p1.l7"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "MRI cervical spine without contrast",
+      "units": "1",
+      "charge": {
+       "value": "2950.00",
+       "line_ids": [
+        "D05.p1.l7"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     }
+    ],
+    "org": "Coastline Imaging Associates"
+   },
+   {
+    "doc": "D07",
+    "provider": {
+     "value": "Pacific Spine & Orthopedics",
+     "line_ids": [
+      "D07.p1.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "account": {
+     "value": "PSO-55120",
+     "line_ids": [
+      "D07.p1.l5"
+     ],
+     "kind": "code",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "printed_total": {
+     "value": "3215.00",
+     "line_ids": [
+      "D07.p1.l11"
+     ],
+     "kind": "money",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "lines": [
+     {
+      "date": {
+       "value": "2026-02-24",
+       "line_ids": [
+        "D07.p1.l7"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "99204",
+       "line_ids": [
+        "D07.p1.l7"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "New patient office visit",
+      "units": "1",
+      "charge": {
+       "value": "425.00",
+       "line_ids": [
+        "D07.p1.l7"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-04-21",
+       "line_ids": [
+        "D07.p1.l8"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "99214",
+       "line_ids": [
+        "D07.p1.l8"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Established patient office visit",
+      "units": "1",
+      "charge": {
+       "value": "210.00",
+       "line_ids": [
+        "D07.p1.l8"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-05-05",
+       "line_ids": [
+        "D07.p1.l9"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "62321",
+       "line_ids": [
+        "D07.p1.l9"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Cervical epidural injection, with imaging guidance",
+      "units": "1",
+      "charge": {
+       "value": "2100.00",
+       "line_ids": [
+        "D07.p1.l9"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-05-05",
+       "line_ids": [
+        "D07.p1.l10"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "77003",
+       "line_ids": [
+        "D07.p1.l10"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Fluoroscopic guidance, spine injection",
+      "units": "1",
+      "charge": {
+       "value": "380.00",
+       "line_ids": [
+        "D07.p1.l10"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     }
+    ],
+    "org": "Pacific Spine & Orthopedics"
+   },
+   {
+    "doc": "D09",
+    "provider": {
+     "value": "Harbor Physical Therapy",
+     "line_ids": [
+      "D09.p1.l1"
+     ],
+     "kind": "name",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "account": {
+     "value": "HPT-3381",
+     "line_ids": [
+      "D09.p1.l5"
+     ],
+     "kind": "code",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "printed_total": {
+     "value": "1655.00",
+     "line_ids": [
+      "D09.p1.l20"
+     ],
+     "kind": "money",
+     "evidence": "text layer",
+     "status": "verified",
+     "reason": ""
+    },
+    "lines": [
+     {
+      "date": {
+       "value": "2026-03-02",
+       "line_ids": [
+        "D09.p1.l7"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97161",
+       "line_ids": [
+        "D09.p1.l7"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "PT evaluation, low complexity",
+      "units": "1",
+      "charge": {
+       "value": "185.00",
+       "line_ids": [
+        "D09.p1.l7"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-05",
+       "line_ids": [
+        "D09.p1.l8"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D09.p1.l8"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Therapeutic exercise, each 15 min",
+      "units": "2",
+      "charge": {
+       "value": "160.00",
+       "line_ids": [
+        "D09.p1.l8"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-05",
+       "line_ids": [
+        "D09.p1.l9"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D09.p1.l9"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Manual therapy, each 15 min",
+      "units": "1",
+      "charge": {
+       "value": "85.00",
+       "line_ids": [
+        "D09.p1.l9"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-09",
+       "line_ids": [
+        "D09.p1.l10"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D09.p1.l10"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Therapeutic exercise, each 15 min",
+      "units": "2",
+      "charge": {
+       "value": "160.00",
+       "line_ids": [
+        "D09.p1.l10"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-09",
+       "line_ids": [
+        "D09.p1.l11"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D09.p1.l11"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Manual therapy, each 15 min",
+      "units": "1",
+      "charge": {
+       "value": "85.00",
+       "line_ids": [
+        "D09.p1.l11"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-12",
+       "line_ids": [
+        "D09.p1.l12"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D09.p1.l12"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Therapeutic exercise, each 15 min",
+      "units": "2",
+      "charge": {
+       "value": "160.00",
+       "line_ids": [
+        "D09.p1.l12"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-12",
+       "line_ids": [
+        "D09.p1.l13"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D09.p1.l13"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Manual therapy, each 15 min",
+      "units": "1",
+      "charge": {
+       "value": "85.00",
+       "line_ids": [
+        "D09.p1.l13"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-16",
+       "line_ids": [
+        "D09.p1.l14"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D09.p1.l14"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Therapeutic exercise, each 15 min",
+      "units": "2",
+      "charge": {
+       "value": "160.00",
+       "line_ids": [
+        "D09.p1.l14"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-16",
+       "line_ids": [
+        "D09.p1.l15"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D09.p1.l15"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Manual therapy, each 15 min",
+      "units": "1",
+      "charge": {
+       "value": "85.00",
+       "line_ids": [
+        "D09.p1.l15"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-19",
+       "line_ids": [
+        "D09.p1.l16"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D09.p1.l16"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Therapeutic exercise, each 15 min",
+      "units": "2",
+      "charge": {
+       "value": "160.00",
+       "line_ids": [
+        "D09.p1.l16"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-19",
+       "line_ids": [
+        "D09.p1.l17"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D09.p1.l17"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Manual therapy, each 15 min",
+      "units": "1",
+      "charge": {
+       "value": "85.00",
+       "line_ids": [
+        "D09.p1.l17"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-23",
+       "line_ids": [
+        "D09.p1.l18"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97110",
+       "line_ids": [
+        "D09.p1.l18"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Therapeutic exercise, each 15 min",
+      "units": "2",
+      "charge": {
+       "value": "160.00",
+       "line_ids": [
+        "D09.p1.l18"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     },
+     {
+      "date": {
+       "value": "2026-03-23",
+       "line_ids": [
+        "D09.p1.l19"
+       ],
+       "kind": "date",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "code": {
+       "value": "97140",
+       "line_ids": [
+        "D09.p1.l19"
+       ],
+       "kind": "code",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "description": "Manual therapy, each 15 min",
+      "units": "1",
+      "charge": {
+       "value": "85.00",
+       "line_ids": [
+        "D09.p1.l19"
+       ],
+       "kind": "money",
+       "evidence": "text layer",
+       "status": "verified",
+       "reason": ""
+      },
+      "verified": true
+     }
+    ],
+    "org": "Harbor Physical Therapy"
+   }
+  ],
+  "findings": [
+   {
+    "type": "duplicate_document",
+    "severity": "info",
+    "title": "Duplicate document left out of the totals",
+    "detail": "Emergency department bill (faxed copy) is a copy of Emergency department bill (identical letter for letter, after OCR). Counting both would overstate the bills.",
+    "doc": "D03",
+    "of": "D02",
+    "line_ids": [
+     "D03.p1.l8",
+     "D03.p1.l10",
+     "D03.p1.l11",
+     "D03.p1.l12",
+     "D03.p1.l13",
+     "D03.p1.l14"
+    ]
+   },
+   {
+    "type": "total_mismatch",
+    "severity": "warning",
+    "title": "Bill total does not match its line items",
+    "detail": "Pacific Spine & Orthopedics prints a total of $3,215.00, but its 4 charges add up to $3,115.00 (a difference of $100.00). Exhibit uses the line items.",
+    "doc": "D07",
+    "printed": 3215.0,
+    "computed": 3115.0,
+    "line_ids": [
+     "D07.p1.l11",
+     "D07.p1.l7",
+     "D07.p1.l8",
+     "D07.p1.l9",
+     "D07.p1.l10"
+    ]
+   },
+   {
+    "type": "billed_not_documented",
+    "severity": "warning",
+    "title": "Charge with no treatment note",
+    "detail": "Harbor Physical Therapy bills $245.00 for Mar 23, 2026, but no record in the file documents a visit that day. Request the note, or expect the charge to be challenged.",
+    "doc": "D09",
+    "provider": "Harbor Physical Therapy",
+    "date": "2026-03-23",
+    "line_ids": [
+     "D09.p1.l18",
+     "D09.p1.l18",
+     "D09.p1.l19",
+     "D09.p1.l19"
+    ]
+   },
+   {
+    "type": "care_gap",
+    "severity": "warning",
+    "title": "33-day gap in treatment",
+    "detail": "No documented care between Mar 19, 2026 (Harbor Physical Therapy) and Apr 21, 2026 (Pacific Spine & Orthopedics). Insurers use gaps over 30 days to argue the injury had resolved; the reason for the gap should be documented.",
+    "from": "2026-03-19",
+    "to": "2026-04-21",
+    "days": 33,
+    "line_ids": [
+     "D08.p2.l10",
+     "D06.p2.l5"
+    ]
+   }
+  ],
+  "billed_by_provider": {
+   "Bayview Regional Medical Center": 4835.0,
+   "Coastline Imaging Associates": 2950.0,
+   "Harbor Physical Therapy": 1655.0,
+   "Pacific Spine & Orthopedics": 3115.0
+  },
+  "total_billed": 12555.0,
+  "fact_counts": {
+   "total": 167,
+   "verified": 167,
+   "unsupported": 0,
+   "from_scans": 45
+  },
+  "unsupported": []
+ },
+ "quality": {
+  "encounters": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "matched": 11,
+   "extracted": 11,
+   "expected": 11
+  },
+  "diagnosis_codes": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "matched": 9,
+   "extracted": 9,
+   "expected": 9
+  },
+  "bill_lines": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "matched": 22,
+   "extracted": 22,
+   "expected": 22
+  },
+  "total_billed": {
+   "exhibit": 12555.0,
+   "expected": 12555.0,
+   "exact": true
+  },
+  "findings": {
+   "expected": 4,
+   "found": 4,
+   "false_alarms": []
+  },
+  "facts": {
+   "total": 167,
+   "verified": 167,
+   "unsupported": 0,
+   "from_scans": 45
+  },
+  "verified_but_wrong": 0,
+  "cost": {
+   "calls": 11,
+   "usd": 0.3518,
+   "usd_per_page": 0.0271,
+   "model_seconds": 81.2,
+   "input_tokens": 41126,
+   "output_tokens": 9367,
+   "model": "claude-opus-5-5",
+   "effort": "low"
+  },
+  "pages": 13,
+  "ocr": {
+   "lines_reread": 39,
+   "lines_where_readings_differ": 6,
+   "ocr_pages": 3
+  },
+  "wall_seconds": 7.3
+ }
+}

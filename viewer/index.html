@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Exhibit - every fact points to its page</title>
+<meta name="description" content="A demo of source-linked medical chronology and bill reconciliation on a fictional personal-injury file.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script>
+  try { const t = localStorage.getItem("exhibit-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <span class="mark" aria-hidden="true"></span>
+    <div>
+      <div class="name">Exhibit</div>
+      <div class="tag">Every fact points to its page.</div>
+    </div>
+  </div>
+  <div class="case">
+    <span id="case-name"></span>
+    <span class="pill">Sample file. Every person and provider is fictional.</span>
+  </div>
+  <button class="theme" id="theme" type="button" aria-label="Switch between light and dark">Dark</button>
+</header>
+
+<section class="summary" id="summary" aria-label="Case summary"></section>
+
+<main class="layout">
+  <section class="left" aria-label="Case analysis">
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="chronology" aria-selected="true">Chronology</button>
+      <button role="tab" data-tab="bills">Bills</button>
+      <button role="tab" data-tab="findings">Findings <span class="count" id="findings-count"></span></button>
+      <button role="tab" data-tab="quality">Quality</button>
+      <button role="tab" data-tab="how">How it works</button>
+    </nav>
+    <div class="panel" id="panel" role="tabpanel"></div>
+  </section>
+
+  <aside class="right" aria-label="Source document">
+    <div class="viewer">
+      <div class="vhead">
+        <select id="doc-select" aria-label="Document"></select>
+        <div class="pager">
+          <button type="button" id="prev" aria-label="Previous page">&#8249;</button>
+          <span id="page-label"></span>
+          <button type="button" id="next" aria-label="Next page">&#8250;</button>
+        </div>
+      </div>
+      <div class="cite" id="cite" aria-live="polite">Click any date, code or amount on the left to see where it came from.</div>
+      <div class="sheet" id="sheet">
+        <img id="page-img" alt="">
+        <div id="marks"></div>
+      </div>
+    </div>
+  </aside>
+</main>
+
+<footer class="foot">
+  Exhibit is a demonstration on synthetic records. It is not legal or medical advice.
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

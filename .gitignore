@@ -1,0 +1,11 @@
+.venv/
+work/llm-ledger.jsonl
+work/llm-cache/
+__pycache__/
+.DS_Store
+*.env
+.env*
+deploy/
+site/
+case/documents/manifest.json
+INSTALLS.md
